@@ -1,0 +1,41 @@
+{
+  "best_epoch": 200,
+  "best_val_loss": 3.2080419971506395e-06,
+  "test_windows": 13,
+  "metrics_aggregation": "all test elements pooled; g units; RE given both as ratio and percent",
+  "model_global": {
+    "MAE_g": 0.00047943733002282107,
+    "RMSE_g": 0.0012848492710589657,
+    "RE_ratio": 0.30546423910816844,
+    "RE_percent": 30.546423910816845,
+    "R2_flattened": 0.8608376195357076,
+    "SNR_dB": 10.300792511508917
+  },
+  "model_missing_only": {
+    "MAE_g": 0.0019177493200912843,
+    "RMSE_g": 0.0025696985421179313,
+    "RE_ratio": 0.5186391880714255,
+    "RE_percent": 51.863918807142554,
+    "R2_flattened": 0.5108008740522327,
+    "SNR_dB": 5.702693425834644
+  },
+  "zero_fill_global": {
+    "MAE_g": 0.000994476915998083,
+    "RMSE_g": 0.00247734706634243,
+    "RE_ratio": 0.5889725383923377,
+    "RE_percent": 58.89725383923376,
+    "R2_flattened": 0.48264197311653967,
+    "SNR_dB": 4.59809908567427
+  },
+  "zero_fill_missing_only": {
+    "MAE_g": 0.003977907663992332,
+    "RMSE_g": 0.00495469413268486,
+    "RE_ratio": 1.0,
+    "RE_percent": 100.0,
+    "R2_flattened": -0.8186746569658643,
+    "SNR_dB": 0.0
+  },
+  "observed_values_preserved": true,
+  "elapsed_seconds": 237.9176275804639,
+  "limitation": "Subset pilot with unverified paper month/channel mapping; not a paper-table reproduction."
+}

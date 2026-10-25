@@ -1,0 +1,27 @@
+{
+  "source": "paper/supplementary_data.xlsx; TFGFormer column; n=5 independent runs",
+  "S25": {
+    "RE_mean": 0.013829,
+    "RE_sample_std": 0.00103581658608076,
+    "MAE_g_mean": 0.000099,
+    "MAE_g_sample_std": 0.000009165151389911677,
+    "RMSE_g_mean": 0.0002844,
+    "RMSE_g_sample_std": 0.00002113764414498456
+  },
+  "S50": {
+    "RE_mean": 0.030373,
+    "RE_sample_std": 0.0005904307749431761,
+    "MAE_g_mean": 0.0003104,
+    "MAE_g_sample_std": 0.000007700649323271393,
+    "RMSE_g_mean": 0.0006252,
+    "RMSE_g_sample_std": 0.000012132600710482501
+  },
+  "S75": {
+    "RE_mean": 0.0599854,
+    "RE_sample_std": 0.0007228736404102745,
+    "MAE_g_mean": 0.0007372,
+    "MAE_g_sample_std": 0.000008786353054595535,
+    "RMSE_g_mean": 0.001235,
+    "RMSE_g_sample_std": 0.00001513274595042152
+  }
+}

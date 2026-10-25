@@ -1,0 +1,11 @@
+{
+  "torch": "2.4.0+cu121",
+  "probe": "Temporally constant, channel-varying input; same random weights; compare interior only.",
+  "released_gate_temporal_variance_mean": 6.859414861537516e-05,
+  "channel_MLP_probe_temporal_variance_mean": 3.572758501739037e-19,
+  "released_gate_32step_difference_max": 0.0,
+  "interpretation": "Released NCHW.view(B,-1,C) groups 32 consecutive time samples, not 32 feature channels. This probe demonstrates a 32-sample periodic output for constant input. Author intent is unconfirmed.",
+  "scope": "Diagnostic hypothesis, not an architectural change or corrected reproduction result.",
+  "previous_test_error_nonDC_power_at_32sample_harmonics_fraction": 0.1604560530605229,
+  "hypothesized_harmonic_spacing_hz": 0.3125
+}

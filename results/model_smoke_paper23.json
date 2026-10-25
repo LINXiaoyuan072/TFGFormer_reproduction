@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "data": "synthetic; no reconstruction accuracy claim",
+  "torch": "2.3.0+cu121",
+  "device": "cuda:0",
+  "gpu": "NVIDIA L20",
+  "parameters": 1805741,
+  "input_shape": [
+    1,
+    1,
+    16,
+    1024
+  ],
+  "learning_rate": 0.01,
+  "loss_definition": "released JointTimeFreqLoss, spatial_weight=1, freq_weight=1; internal /2",
+  "loss_before_step": 0.06588157266378403,
+  "finite_gradients": true,
+  "observed_values_preserved": true,
+  "finite_output_after_step": true,
+  "elapsed_seconds": 1.748216174542904,
+  "peak_cuda_memory_mib": 933.5361328125
+}

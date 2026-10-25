@@ -1,0 +1,6235 @@
+[
+  {
+    "identifier": "0086a6cf-e9b4-4664-9da4-32a9934b201b",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_9.zip",
+    "mimeType": "application/zip",
+    "size": 162430275,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:53.713489Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:53.713489Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "010fc063-3eed-4d00-9998-34fc6a282c40",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_9.zip",
+    "mimeType": "application/zip",
+    "size": 183798137,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:53.896971Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:53.896971Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0126e613-77aa-44ba-a7cc-74299d113707",
+    "type": "OpenFile",
+    "name": "Events_StormUrd_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 49482258,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:53.947305Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:53.947305Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0244b1df-ab7d-41bf-8584-0dbf63539c08",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_9.zip",
+    "mimeType": "application/zip",
+    "size": 91674661,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:53.994883Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:53.994883Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "02b195bd-a5c1-4dae-bc87-f337a8299285",
+    "type": "OpenFile",
+    "name": "Raw_2017_8.zip",
+    "mimeType": "application/zip",
+    "size": 1627965945,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.043458Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.043458Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "06350167-7232-4560-a90b-6b1c5b6ac23e",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_3.zip",
+    "mimeType": "application/zip",
+    "size": 5753379025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.091277Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.091277Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0706da94-5ccd-457c-9737-9d4ccbeebc21",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_5.zip",
+    "mimeType": "application/zip",
+    "size": 1671407682,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.139244Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.139244Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "080d456d-9caa-43a9-8769-c40de36c5900",
+    "type": "OpenFile",
+    "name": "Events_StormOle_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 15208862,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.186869Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.186869Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0847219d-9221-451e-8873-8c514841f815",
+    "type": "OpenFile",
+    "name": "Raw_2016_9.zip",
+    "mimeType": "application/zip",
+    "size": 4110614025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.234844Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.234844Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "084ffc60-effb-4c45-afb0-a972bcc1aff3",
+    "type": "OpenFile",
+    "name": "Raw_2014_1.zip",
+    "mimeType": "application/zip",
+    "size": 35834408425,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.283378Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.283378Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "08900d7e-e829-43cd-9763-7092fa487be3",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_10.zip",
+    "mimeType": "application/zip",
+    "size": 38377081825,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.331641Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.331641Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0a8c4eb4-d9c7-499c-a36c-ea9fcc0e4585",
+    "type": "OpenFile",
+    "name": "Raw_2017_5.zip",
+    "mimeType": "application/zip",
+    "size": 1277157156,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.380413Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.380413Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0b3f686c-d727-4715-9480-d80ac7e3003d",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_17_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 4759410200,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.427828Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.427828Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0ca24ab3-8424-489b-ac8c-fb7f91e28773",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_1.zip",
+    "mimeType": "application/zip",
+    "size": 12838166522,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.477425Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.477425Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0e28b2a2-697a-46a9-89bf-c438c90b0d34",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_2.zip",
+    "mimeType": "application/zip",
+    "size": 48917255064,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.535664Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.535664Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "0ec16b2e-119c-431c-8639-1b0893886b39",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_9.zip",
+    "mimeType": "application/zip",
+    "size": 5495227375,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.584712Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.584712Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "113291f1-4206-47e5-b9c5-f8dd42357e5b",
+    "type": "OpenFile",
+    "name": "LowFreq_2019_12.zip",
+    "mimeType": "application/zip",
+    "size": 185571101,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.633572Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.633572Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "11509e16-5492-4238-acb4-4d7e66e21830",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_1.zip",
+    "mimeType": "application/zip",
+    "size": 216704080,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.682418Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.682418Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1251f052-4063-42ab-afc7-7b0903cad9b7",
+    "type": "OpenFile",
+    "name": "Events_Max_Wind_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 14724763575,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.731032Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.731032Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "132811de-a0de-4fb2-a4be-6c141208152c",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_10.zip",
+    "mimeType": "application/zip",
+    "size": 378656974,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.778529Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.778529Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "13345087-03e2-4cc2-9925-01b4dcd41257",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_8.zip",
+    "mimeType": "application/zip",
+    "size": 9790900900,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.827197Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.827197Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "14cf35b5-acf8-4a47-bcfb-d5e708423c6e",
+    "type": "OpenFile",
+    "name": "Raw_2020_1.zip",
+    "mimeType": "application/zip",
+    "size": 13770112025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.876295Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.876295Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "16249552-125d-4bcd-b9f3-e8bdb95cafda",
+    "type": "OpenFile",
+    "name": "Raw_2014_2.zip",
+    "mimeType": "application/zip",
+    "size": 1506601013,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.926676Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.926676Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "16ea079d-13aa-45c7-bba3-6eb8a0a093c2",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_9.zip",
+    "mimeType": "application/zip",
+    "size": 18089147950,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:54.977695Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:54.977695Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1741db71-6fcb-45fb-92a5-ec83ee139914",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_8.zip",
+    "mimeType": "application/zip",
+    "size": 2136840846,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.028229Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.028229Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1742c886-c2b2-43dd-b708-fef8e180b7df",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_5.zip",
+    "mimeType": "application/zip",
+    "size": 28184190,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.077325Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.077325Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "183a4949-3cd3-4583-82e8-2cf78f031bc1",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_10.zip",
+    "mimeType": "application/zip",
+    "size": 33958739300,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.126996Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.126996Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "18c42468-ed20-4c02-8c58-de21f4b461df",
+    "type": "OpenFile",
+    "name": "LowFreq_2018_4.zip",
+    "mimeType": "application/zip",
+    "size": 40954048,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.177815Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.177815Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "19625924-788c-4da9-8e31-0b687bc996c2",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_10.zip",
+    "mimeType": "application/zip",
+    "size": 2796570186,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.227943Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.227943Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1a3c53be-9ec5-4ef8-bc07-878646367aa5",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_5.zip",
+    "mimeType": "application/zip",
+    "size": 10177979675,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.278117Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.278117Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1d6a01c2-0f16-4ac1-afc7-614930fbf9f9",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_02_02_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 1290429125,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.328927Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.328927Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1dafd732-920c-4ed6-acb4-0d05b787efe6",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_10.zip",
+    "mimeType": "application/zip",
+    "size": 659282127,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.378617Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.378617Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1e71793f-98fa-4505-b549-058d874fbb10",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_9.zip",
+    "mimeType": "application/zip",
+    "size": 456093343,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.428752Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.428752Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "1eecde40-8496-4e91-ae85-8a2422c3d8ce",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_7.zip",
+    "mimeType": "application/zip",
+    "size": 10559685,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.478793Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.478793Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "20d2bc65-0598-4778-8bbb-66c4524534c8",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_6.zip",
+    "mimeType": "application/zip",
+    "size": 79524775,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.529290Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.529290Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "21c459f9-1517-48f8-ad1b-c91d1dea9437",
+    "type": "OpenFile",
+    "name": "Raw_2014_11.zip",
+    "mimeType": "application/zip",
+    "size": 1714132273,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.579509Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.579509Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "21fdf797-755b-4545-ad0d-69fbe525de33",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_11.zip",
+    "mimeType": "application/zip",
+    "size": 1631308585,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.630312Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.630312Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "22591671-be5d-4684-93fb-7853966d4cee",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_1.zip",
+    "mimeType": "application/zip",
+    "size": 3332738282,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.682354Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.682354Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "22df29e8-2432-4ced-8b99-8c9451b6d7e6",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_6.zip",
+    "mimeType": "application/zip",
+    "size": 1069485958,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.734163Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.734163Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "242dcbc2-86b1-4295-a950-ceabe6305378",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_9.zip",
+    "mimeType": "application/zip",
+    "size": 295011817,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.785315Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.785315Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "243923fc-1c85-43c6-880a-19979dea1e53",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_6.zip",
+    "mimeType": "application/zip",
+    "size": 50167230,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.837184Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.837184Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "24db6e1c-67d8-477d-a87a-0a28bf54eb13",
+    "type": "OpenFile",
+    "name": "Raw_2013_12.zip",
+    "mimeType": "application/zip",
+    "size": 41704727525,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.888014Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.888014Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2855136c-a4b0-4899-a1fe-e3372433ad67",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_4.zip",
+    "mimeType": "application/zip",
+    "size": 369434608,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.937888Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.937888Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2889fc41-d7e6-45e9-b249-da2eeaecde96",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_1.zip",
+    "mimeType": "application/zip",
+    "size": 669213247,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:55.987966Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:55.987966Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2946f684-7375-4b63-b45e-5fac53ca353f",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_9.zip",
+    "mimeType": "application/zip",
+    "size": 1467886010,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.039846Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.039846Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "29fe67d5-06b6-412e-8c10-82c486dd77e7",
+    "type": "OpenFile",
+    "name": "LowFreq_2020_4.zip",
+    "mimeType": "application/zip",
+    "size": 142786307,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.091559Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.091559Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2afa13be-9073-4e3a-8b1a-0b104093a5cc",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_11.zip",
+    "mimeType": "application/zip",
+    "size": 197140081,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.142344Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.142344Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2b38b5f3-65fb-4a48-b127-49fd61bcba15",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2015_12_16_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 2276607250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.192729Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.192729Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2c981d79-ce30-4a9b-8f73-1f31749b90b1",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_1.zip",
+    "mimeType": "application/zip",
+    "size": 5634636826,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.242277Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.242277Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2e6dc35b-04f3-43cd-82da-4b35b9c738e0",
+    "type": "OpenFile",
+    "name": "MidFreq_2018_4.zip",
+    "mimeType": "application/zip",
+    "size": 202762466,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.292456Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.292456Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "2f39fa5e-3213-489b-84c1-954dd511bc9a",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_9.zip",
+    "mimeType": "application/zip",
+    "size": 2101405228,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.344259Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.344259Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "314a365b-e9f4-4473-a924-a07b3835233e",
+    "type": "OpenFile",
+    "name": "MidFreq_2020_1.zip",
+    "mimeType": "application/zip",
+    "size": 289034483,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.395439Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.395439Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "331d7848-81f2-4d2b-a47f-265e3c64d50d",
+    "type": "OpenFile",
+    "name": "Raw_2020_4.zip",
+    "mimeType": "application/zip",
+    "size": 7769874300,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.446118Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.446118Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3492a718-5170-45ac-9f33-08685e6e6978",
+    "type": "OpenFile",
+    "name": "Events_StormOle_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 961900950,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.496157Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.496157Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "34e9f42f-df48-4b93-be66-17e3bc1b3c09",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_5.zip",
+    "mimeType": "application/zip",
+    "size": 1798749961,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.545866Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.545866Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "358c4414-664c-403c-ac39-2c447c8c502d",
+    "type": "OpenFile",
+    "name": "Events_MaxDrag_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 21747604,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.594468Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.594468Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "38f281ce-53ca-4a75-82c2-60c270f353a8",
+    "type": "OpenFile",
+    "name": "LowFreq_2018_1.zip",
+    "mimeType": "application/zip",
+    "size": 442986154,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.644191Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.644191Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3a548916-33c1-4e2f-b9d1-118df0bee933",
+    "type": "OpenFile",
+    "name": "00_DataPaper_preprint.pdf",
+    "mimeType": "application/pdf",
+    "size": 3575518,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.694556Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.694556Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3ac51897-defe-4b57-97ef-fa0da38beef7",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_8.zip",
+    "mimeType": "application/zip",
+    "size": 631076873,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.745194Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.745194Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3acc840e-0bb4-4a97-ad64-55aab8610bc7",
+    "type": "OpenFile",
+    "name": "Raw_2020_2.zip",
+    "mimeType": "application/zip",
+    "size": 10631190375,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.797266Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.797266Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3c325bb3-01f6-4823-8a04-eb0d09832cc1",
+    "type": "OpenFile",
+    "name": "Events_MaxLift_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 22663447,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.848940Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.848940Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3d0fd09d-2a52-4b21-9fd1-9e166751ccbf",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2013_12_08_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 549681400,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.898072Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.898072Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "3d82053b-03ef-4b5e-af17-967e306965f4",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_3.zip",
+    "mimeType": "application/zip",
+    "size": 445472442,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.947594Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.947594Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4083caa7-8feb-44f5-a9cb-d6e434e93c54",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_2.zip",
+    "mimeType": "application/zip",
+    "size": 4707685112,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:56.997974Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:56.997974Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "417ec6e5-ac77-4440-b5c1-1d41a6f7ac14",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_12.zip",
+    "mimeType": "application/zip",
+    "size": 63138576400,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.048871Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.048871Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "41f49843-7e6b-4bc9-af73-1366c0ca050e",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_10.zip",
+    "mimeType": "application/zip",
+    "size": 562211275,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.100067Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.100067Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4217fad4-7642-4891-a0d4-56ac6de667af",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_4.zip",
+    "mimeType": "application/zip",
+    "size": 766727190,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.151033Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.151033Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "42325a65-24be-448b-868d-72b92e1fdfea",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_11.zip",
+    "mimeType": "application/zip",
+    "size": 327954913,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.203001Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.203001Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "42d7bd5c-7acc-490d-b9d4-bc0d9586222b",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_5.zip",
+    "mimeType": "application/zip",
+    "size": 18941692000,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.255828Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.255828Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "43e33aed-b81e-4101-bd15-a7fc96ae9c22",
+    "type": "OpenFile",
+    "name": "00_Readme.txt",
+    "mimeType": "text/plain",
+    "size": 6299,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.306740Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.306740Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "44b7cebb-d0da-489b-a3c2-7a961d118170",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_12.zip",
+    "mimeType": "application/zip",
+    "size": 221074549,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.357884Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.357884Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4643fa57-e5c5-4beb-b854-f40e1f026bff",
+    "type": "OpenFile",
+    "name": "Raw_2017_2.zip",
+    "mimeType": "application/zip",
+    "size": 23687862350,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.408195Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.408195Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "46ccbdea-78f2-426c-89f8-46196a287382",
+    "type": "OpenFile",
+    "name": "Raw_2017_1.zip",
+    "mimeType": "application/zip",
+    "size": 9878630475,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.457843Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.457843Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "46fea5fa-f389-4bc5-80b3-111c596fdb8d",
+    "type": "OpenFile",
+    "name": "HighFreq_2020_2.zip",
+    "mimeType": "application/zip",
+    "size": 10860067325,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.509559Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.509559Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "47054af7-001a-4d85-89db-5aec39694866",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_12.zip",
+    "mimeType": "application/zip",
+    "size": 21055384500,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.560771Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.560771Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4800c444-bcda-4b74-b1d8-ec9a04723446",
+    "type": "OpenFile",
+    "name": "HighFreq_2020_4.zip",
+    "mimeType": "application/zip",
+    "size": 7972774400,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.610924Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.610924Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "48b10acd-4a12-455e-8a54-80b6b474d644",
+    "type": "OpenFile",
+    "name": "Raw_2014_4.zip",
+    "mimeType": "application/zip",
+    "size": 20915758350,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.661638Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.661638Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "48d1ce29-85ec-4a32-b2bd-7bb266373145",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_1.zip",
+    "mimeType": "application/zip",
+    "size": 1065108587,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.713481Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.713481Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4b126cc8-b9c4-4cb2-8506-6c92d5a102fd",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_4.zip",
+    "mimeType": "application/zip",
+    "size": 3796352269,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.763810Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.763810Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4b74ee29-8677-49e0-bf63-a551a71c0847",
+    "type": "OpenFile",
+    "name": "Raw_2018_4.zip",
+    "mimeType": "application/zip",
+    "size": 1931160437,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.815207Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.815207Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4c118feb-2c16-4c3e-a4b1-a172de5f67ef",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_1.zip",
+    "mimeType": "application/zip",
+    "size": 54379131625,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.867443Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.867443Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4de4cdf7-ad0e-4c11-9018-78845844ff26",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_5.zip",
+    "mimeType": "application/zip",
+    "size": 961502813,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.917740Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.917740Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "4f6c3648-bca8-496b-8089-9e6a3a8dc9bf",
+    "type": "OpenFile",
+    "name": "MidFreq_2020_3.zip",
+    "mimeType": "application/zip",
+    "size": 345785937,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:57.968236Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:57.968236Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5044c1d7-7d3c-45ee-9b97-bd3a6192c96d",
+    "type": "OpenFile",
+    "name": "Raw_2015_8.zip",
+    "mimeType": "application/zip",
+    "size": 7570939550,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.016490Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.016490Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5077b109-fea3-44db-bb54-0b0cbe9aae8b",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_8.zip",
+    "mimeType": "application/zip",
+    "size": 104920963,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.064327Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.064327Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "52d0b753-4f8a-497a-8e85-d75cca2ba3f2",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_2.zip",
+    "mimeType": "application/zip",
+    "size": 1471009609,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.112175Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.112175Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "53cfba33-c127-4976-bb8b-c06d90a79aff",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_03_30_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 3603579075,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.159612Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.159612Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "53da4bd5-6d10-43f0-b3e1-90637c7899f8",
+    "type": "OpenFile",
+    "name": "Raw_2015_5.zip",
+    "mimeType": "application/zip",
+    "size": 8741335700,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.208013Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.208013Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "551d1164-737f-415d-9905-1bd679426d26",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_2.zip",
+    "mimeType": "application/zip",
+    "size": 524412013,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.257185Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.257185Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "56154156-f76f-4dc7-8e62-c3e51f908231",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_4.zip",
+    "mimeType": "application/zip",
+    "size": 206242122,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.308484Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.308484Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "565dc325-84a3-48a8-8906-0b5bc0740ddf",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2015_12_16_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 57502072,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.358513Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.358513Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "570e5407-b91b-458c-b99b-15f1fbfebd3b",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_8.zip",
+    "mimeType": "application/zip",
+    "size": 21076009,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.408962Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.408962Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "575067f6-88d7-4482-94c0-16174a0a76bb",
+    "type": "OpenFile",
+    "name": "Raw_2016_11.zip",
+    "mimeType": "application/zip",
+    "size": 14885569225,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.460336Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.460336Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "57a899ff-8c10-4c12-aee6-7ac6c5463033",
+    "type": "OpenFile",
+    "name": "Events_Max_Wind_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 232871669,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.511454Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.511454Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "59121927-dbde-477f-a66e-17e40e3c4e29",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_3.zip",
+    "mimeType": "application/zip",
+    "size": 273618895,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.562541Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.562541Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "59ef9ecc-2f61-4ed3-8ae4-9ed6a27fc55c",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_7.zip",
+    "mimeType": "application/zip",
+    "size": 209112318,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.613295Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.613295Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5b5826bf-1529-433e-9442-c0d8a029d9c2",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_12.zip",
+    "mimeType": "application/zip",
+    "size": 9617192483,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.663848Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.663848Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5b62060f-74c3-45c7-abde-b47d59f1fdb6",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_5.zip",
+    "mimeType": "application/zip",
+    "size": 5262927,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.715490Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.715490Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5bba631f-6177-4a96-b5a2-251c96f85a0e",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_4.zip",
+    "mimeType": "application/zip",
+    "size": 23870465106,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.765410Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.765410Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5c0d6881-905b-414a-ba6c-b1567a81ca47",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_12.zip",
+    "mimeType": "application/zip",
+    "size": 1688687151,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.814807Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.814807Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5c949a70-51d8-4f00-8ab9-5547db6b9737",
+    "type": "OpenFile",
+    "name": "Raw_2015_3.zip",
+    "mimeType": "application/zip",
+    "size": 49104103525,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.866148Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.866148Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5d39a049-d2d9-496e-81a4-16a0f1e9d78d",
+    "type": "OpenFile",
+    "name": "Events_MaxPitch_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 1383573875,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.918394Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.918394Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5d598842-ecf7-4592-a816-f735c7750b97",
+    "type": "OpenFile",
+    "name": "MidFreq_2019_11.zip",
+    "mimeType": "application/zip",
+    "size": 508453778,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:58.966192Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:58.966192Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "5f33f3c3-9634-4651-9e46-b32b9bec188b",
+    "type": "OpenFile",
+    "name": "Raw_2017_7.zip",
+    "mimeType": "application/zip",
+    "size": 1879475686,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.014235Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.014235Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6175128e-cee3-4c09-9daa-87af7e88d62e",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_2.zip",
+    "mimeType": "application/zip",
+    "size": 30979495100,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.061433Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.061433Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "630ffaa9-5838-483b-831f-9308953968de",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_4.zip",
+    "mimeType": "application/zip",
+    "size": 3616764615,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.108932Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.108932Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "63cdf897-4f50-48de-8d8c-9eecc522b46d",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_3.zip",
+    "mimeType": "application/zip",
+    "size": 2217108956,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.156774Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.156774Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6454c8bc-6e20-40c5-a5fb-c9079e0808db",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_2.zip",
+    "mimeType": "application/zip",
+    "size": 945810405,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.204625Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.204625Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "64c4b351-62ba-4eba-b5b3-bf672acf6774",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_4.zip",
+    "mimeType": "application/zip",
+    "size": 74289008,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.253865Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.253865Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "652b199e-28d1-4b39-8d82-f064e79dffa0",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_1.zip",
+    "mimeType": "application/zip",
+    "size": 12136035900,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.303496Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.303496Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6799cbbb-f76b-429f-9b20-056ad382885c",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_10.zip",
+    "mimeType": "application/zip",
+    "size": 22414952850,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.354093Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.354093Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "68c477fc-809b-4480-877f-3d53ab3137ff",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_10.zip",
+    "mimeType": "application/zip",
+    "size": 955101997,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.405269Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.405269Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6904c730-f405-46da-9ca7-e5b57e2e7a9e",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_8.zip",
+    "mimeType": "application/zip",
+    "size": 837361383,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.454406Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.454406Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "69fcf7fe-7811-4212-95b5-f407c0fe69a6",
+    "type": "OpenFile",
+    "name": "Raw_2016_3.zip",
+    "mimeType": "application/zip",
+    "size": 19491785025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.502965Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.502965Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6bc996e3-5a31-44d6-a197-d28970a24d9e",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_30_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 13442931,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.553643Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.553643Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6c02f2f9-fddf-41d0-9780-84f081d64c76",
+    "type": "OpenFile",
+    "name": "Raw_2017_9.zip",
+    "mimeType": "application/zip",
+    "size": 13527566025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.607450Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.607450Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6d0dbf13-df23-41e1-b342-172934c7921d",
+    "type": "OpenFile",
+    "name": "Events_MaxDrag_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 1438126975,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.658513Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.658513Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6dc74af6-3196-46e3-9845-04e4c2573d61",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_11.zip",
+    "mimeType": "application/zip",
+    "size": 10783629075,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.709754Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.709754Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "6ec8f0ef-f453-42d4-bc5f-d5decddec1bc",
+    "type": "OpenFile",
+    "name": "Raw_2015_10.zip",
+    "mimeType": "application/zip",
+    "size": 29732865600,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.760049Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.760049Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "70cba195-505d-4832-954f-6d71d7e88157",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_1.zip",
+    "mimeType": "application/zip",
+    "size": 214164469,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.809924Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.809924Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "70ec53bf-e9de-4ba5-815b-f6c0e7e75fde",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_4.zip",
+    "mimeType": "application/zip",
+    "size": 1026048733,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.860233Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.860233Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "72f2a508-2a44-44f4-abcf-41568e9e2ac4",
+    "type": "OpenFile",
+    "name": "Raw_2016_6.zip",
+    "mimeType": "application/zip",
+    "size": 816462872,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.909686Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.909686Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "761f9b97-9af6-4a08-b03f-d1099275022b",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_10.zip",
+    "mimeType": "application/zip",
+    "size": 1883894578,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:13:59.959304Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:13:59.959304Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "76bb30fb-dadb-4791-b4b8-71557ff81115",
+    "type": "OpenFile",
+    "name": "Raw_2017_3.zip",
+    "mimeType": "application/zip",
+    "size": 9285731250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.009932Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.009932Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "76f55042-b23d-4719-bf20-fb6058f87f8e",
+    "type": "OpenFile",
+    "name": "LowFreq_2020_2.zip",
+    "mimeType": "application/zip",
+    "size": 202489805,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.062030Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.062030Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "779b32c3-8220-4942-b9a9-9a830b27bef7",
+    "type": "OpenFile",
+    "name": "LowFreq_2018_8.zip",
+    "mimeType": "application/zip",
+    "size": 21841,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.113277Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.113277Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "78d157fa-ee35-44c6-af07-3c7f672e44c9",
+    "type": "OpenFile",
+    "name": "Raw_2019_12.zip",
+    "mimeType": "application/zip",
+    "size": 9754457650,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.167173Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.167173Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "78ef5c26-eaf2-4278-bbe1-e8aabfb26412",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_1.zip",
+    "mimeType": "application/zip",
+    "size": 1078373029,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.218659Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.218659Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "79dc44c3-990c-4985-a8bf-622de3844958",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_11.zip",
+    "mimeType": "application/zip",
+    "size": 43931467,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.269828Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.269828Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "7ba551c5-90ea-48df-b326-5b064ee753ea",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_8.zip",
+    "mimeType": "application/zip",
+    "size": 1309714497,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.320821Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.320821Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "7bc1c05e-d480-47b3-83be-d0e87c3ea0ac",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_9.zip",
+    "mimeType": "application/zip",
+    "size": 914078147,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.372307Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.372307Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "7ceeb27c-29e9-4b12-8f3a-c916034b19ae",
+    "type": "OpenFile",
+    "name": "Raw_2016_10.zip",
+    "mimeType": "application/zip",
+    "size": 16907434500,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.425483Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.425483Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8071ef7f-318f-4aab-a430-81e57607acf1",
+    "type": "OpenFile",
+    "name": "HighFreq_2018_4.zip",
+    "mimeType": "application/zip",
+    "size": 1931757369,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.477596Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.477596Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "80ebf966-cbf5-445a-a587-046bca6cfb78",
+    "type": "OpenFile",
+    "name": "Raw_2018_2.zip",
+    "mimeType": "application/zip",
+    "size": 15296674300,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.529437Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.529437Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8202b469-0e87-4193-bf5d-91f3fcebe636",
+    "type": "OpenFile",
+    "name": "Raw_2016_12.zip",
+    "mimeType": "application/zip",
+    "size": 16074320350,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.582063Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.582063Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "820cd914-0dcd-41c9-ba39-f75732d3703b",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_2.zip",
+    "mimeType": "application/zip",
+    "size": 28942997,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.634196Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.634196Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "824ed598-163a-47bd-b817-20b8cc0a76c8",
+    "type": "OpenFile",
+    "name": "Events_StormRoar_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 41164139,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.686167Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.686167Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "83c04487-0bbf-4aae-b404-93b8b597b450",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_03_30_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 75739831,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.735551Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.735551Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8495b43c-1b58-4e1e-af8b-da2d75964c26",
+    "type": "OpenFile",
+    "name": "HighFreq_2020_1.zip",
+    "mimeType": "application/zip",
+    "size": 14126300250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.785486Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.785486Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "87649b5d-deae-4048-ad5c-6e4cdd644fb8",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_3.zip",
+    "mimeType": "application/zip",
+    "size": 197446112,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.855477Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.855477Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "89bbe5ad-a5ca-41ce-8c04-962823dbbecb",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_2.zip",
+    "mimeType": "application/zip",
+    "size": 295537087,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.906722Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.906722Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "89f6f9b4-3daf-4523-bafb-0550ad746ee6",
+    "type": "OpenFile",
+    "name": "ZZ_cover.jpg",
+    "mimeType": "image/jpeg",
+    "size": 7525112,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:00.958092Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:00.958092Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8a0e94a1-8539-4c3e-989f-44eb7aff2d49",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_5.zip",
+    "mimeType": "application/zip",
+    "size": 361181661,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.009507Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.009507Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8c4f4d85-efee-4e83-a355-7a8a09ece8f3",
+    "type": "OpenFile",
+    "name": "Raw_2018_8.zip",
+    "mimeType": "application/zip",
+    "size": 57845857,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.060760Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.060760Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8d03d4fe-0ae5-45be-8b06-d01d405d57ba",
+    "type": "OpenFile",
+    "name": "MidFreq_2018_8.zip",
+    "mimeType": "application/zip",
+    "size": 33487,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.111836Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.111836Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "8e5fb7be-5b55-4521-a118-af0013623ce8",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_12.zip",
+    "mimeType": "application/zip",
+    "size": 1099753271,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.162608Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.162608Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "900b4256-2e9b-4f02-8a52-2d6a05db8fab",
+    "type": "OpenFile",
+    "name": "LowFreq_2020_1.zip",
+    "mimeType": "application/zip",
+    "size": 275073866,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.213943Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.213943Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "904bc2ce-1593-480c-9ce0-64704be66575",
+    "type": "OpenFile",
+    "name": "Raw_2016_4.zip",
+    "mimeType": "application/zip",
+    "size": 3152990217,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.263838Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.263838Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "90679837-d554-4958-a7a7-bb4150a66732",
+    "type": "OpenFile",
+    "name": "MidFreq_2013_12.zip",
+    "mimeType": "application/zip",
+    "size": 4435305050,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.315086Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.315086Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "90f13bbd-da0f-4529-94e1-22c8e41b5e3f",
+    "type": "OpenFile",
+    "name": "Raw_2017_6.zip",
+    "mimeType": "application/zip",
+    "size": 2221848253,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.365162Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.365162Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "91601d45-29ad-447f-a9a8-5d6d8fb2dc0d",
+    "type": "OpenFile",
+    "name": "doi_metadata.json",
+    "mimeType": "application/json",
+    "size": 14908,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.416023Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.416023Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "92d47682-5446-40e2-a959-a4565242e57f",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_7.zip",
+    "mimeType": "application/zip",
+    "size": 609630644,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.467214Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.467214Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "93a531dc-41a8-4329-bc9a-aa44e80e0dd5",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_12.zip",
+    "mimeType": "application/zip",
+    "size": 1352983966,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.518348Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.518348Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "93e6455b-9446-46e0-a3f0-64c1353261c2",
+    "type": "OpenFile",
+    "name": "Raw_2016_5.zip",
+    "mimeType": "application/zip",
+    "size": 234381213,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.570752Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.570752Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "94296b01-f439-4c0e-bde1-0f9de6fbb2a6",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_18_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 4765507100,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.621907Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.621907Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "94cc4805-487b-4a41-8a71-5f931da69d6b",
+    "type": "OpenFile",
+    "name": "HighFreq_2019_11.zip",
+    "mimeType": "application/zip",
+    "size": 4929804200,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.672753Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.672753Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "95648976-1279-4a05-b023-7adfcdc21730",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_11.zip",
+    "mimeType": "application/zip",
+    "size": 2114662676,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.723482Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.723482Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "96c0dae8-b8ad-41a2-8f71-3f456e704cd0",
+    "type": "OpenFile",
+    "name": "HighFreq_2018_2.zip",
+    "mimeType": "application/zip",
+    "size": 17555581425,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.774393Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.774393Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "97b2f605-5d3d-4442-9aeb-f1778555ff43",
+    "type": "OpenFile",
+    "name": "HighFreq_2018_3.zip",
+    "mimeType": "application/zip",
+    "size": 9408351375,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.825946Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.825946Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "98f538f3-e3ac-402d-b3b5-e5a062e2dedd",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_6.zip",
+    "mimeType": "application/zip",
+    "size": 584500631,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.879494Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.879494Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "997452ba-8d41-46a0-b1d5-1bf9c303991d",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_6.zip",
+    "mimeType": "application/zip",
+    "size": 4572745821,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.931220Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.931220Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "997f0347-464c-4a11-9714-0e1f707d4da1",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2015_12_19_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 5352287675,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:01.981819Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:01.981819Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9c3e4c23-9a58-4adc-9c3f-709c12d8fe61",
+    "type": "OpenFile",
+    "name": "Events_StormRoar_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 2587276250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.033141Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.033141Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9d26d719-e2f3-411e-bcd9-dbecafdf2fbf",
+    "type": "OpenFile",
+    "name": "MidFreq_2019_12.zip",
+    "mimeType": "application/zip",
+    "size": 211736509,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.086147Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.086147Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9db1a4cf-2c70-4a9a-8dbe-bc32def631bc",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_17_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 115187093,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.137151Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.137151Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9ed90408-59cb-4910-b29a-baf46f593ef8",
+    "type": "OpenFile",
+    "name": "LowFreq_2018_3.zip",
+    "mimeType": "application/zip",
+    "size": 195403662,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.187487Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.187487Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9ee022ca-db80-4057-9137-7fff7c8beab8",
+    "type": "OpenFile",
+    "name": "Raw_2014_6.zip",
+    "mimeType": "application/zip",
+    "size": 3830968457,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.238371Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.238371Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9fb8b0ae-ad17-482c-b667-cd52d78d1e63",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_1.zip",
+    "mimeType": "application/zip",
+    "size": 1131478677,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.290552Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.290552Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "9ff9dced-0e47-4960-bb1e-5431174bdaea",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_8.zip",
+    "mimeType": "application/zip",
+    "size": 168417993,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.340700Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.340700Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a0aab3e0-1fad-4d3f-a934-fc442bfe8537",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_6.zip",
+    "mimeType": "application/zip",
+    "size": 18497598,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.390691Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.390691Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a1422d5b-426e-4bdb-b4f6-7cf073708fc7",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_02_02_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 27003613,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.442262Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.442262Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a1b742e3-16a4-45fe-a975-ad66c8e8c171",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_7.zip",
+    "mimeType": "application/zip",
+    "size": 2478445619,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.492916Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.492916Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a24e8b13-aa3b-4866-8356-dd33aa94e50b",
+    "type": "OpenFile",
+    "name": "LowFreq_2018_2.zip",
+    "mimeType": "application/zip",
+    "size": 335054060,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.544947Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.544947Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a25d3d86-2ea3-4781-9cf6-03eaf4f4d5f9",
+    "type": "OpenFile",
+    "name": "HighFreq_2020_3.zip",
+    "mimeType": "application/zip",
+    "size": 3731516600,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.596902Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.596902Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a2d5ca8d-6e8a-456a-8473-d7a3153a3280",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_6.zip",
+    "mimeType": "application/zip",
+    "size": 249407265,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.649070Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.649070Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a3cd7712-017c-46ba-87f6-7447bd00af2f",
+    "type": "OpenFile",
+    "name": "Raw_2019_11.zip",
+    "mimeType": "application/zip",
+    "size": 6634388000,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.700411Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.700411Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a3de808d-60dc-464b-8e2c-46415dba3ec2",
+    "type": "OpenFile",
+    "name": "Raw_2015_4.zip",
+    "mimeType": "application/zip",
+    "size": 33498288150,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.752609Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.752609Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a4704a3b-14e5-4c19-b634-d60275a867b6",
+    "type": "OpenFile",
+    "name": "Events_StormNina_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 53039305,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.803871Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.803871Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a846ee66-dc1a-4136-a5a9-c4102cbd0c31",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_7.zip",
+    "mimeType": "application/zip",
+    "size": 42029222,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.855375Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.855375Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "a9a554ee-dae0-45cd-81e1-c31a532e743a",
+    "type": "OpenFile",
+    "name": "Raw_2014_10.zip",
+    "mimeType": "application/zip",
+    "size": 754121739,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.907677Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.907677Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ab190fbb-872e-4699-8069-cbecf1d33a3d",
+    "type": "OpenFile",
+    "name": "HighFreq_2018_1.zip",
+    "mimeType": "application/zip",
+    "size": 26350722800,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:02.957532Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:02.957532Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "abcdd2fc-5465-4687-8223-162f58374963",
+    "type": "OpenFile",
+    "name": "MidFreq_2018_3.zip",
+    "mimeType": "application/zip",
+    "size": 965973549,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.004948Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.004948Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ac096a09-1fb1-4588-9194-21a4f6fad9de",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_7.zip",
+    "mimeType": "application/zip",
+    "size": 33215401,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.051944Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.051944Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ac958604-4610-486b-b2d6-a2fd004b2064",
+    "type": "OpenFile",
+    "name": "00_DataPaper_preprint.txt",
+    "mimeType": "text/plain",
+    "size": 24476,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.099524Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.099524Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ad10fddc-5af7-435c-ae74-38878c08db87",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_2.zip",
+    "mimeType": "application/zip",
+    "size": 14715107000,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.148093Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.148093Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ad95e36b-edf0-4e31-bab2-17d6d70469c0",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_3.zip",
+    "mimeType": "application/zip",
+    "size": 1157180691,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.198626Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.198626Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "afd77ba7-e88c-45aa-a884-67f021f13a2c",
+    "type": "OpenFile",
+    "name": "Raw_2017_10.zip",
+    "mimeType": "application/zip",
+    "size": 25393050000,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.249987Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.249987Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b0c69d54-263d-45aa-9fb4-0e703155db9b",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_10.zip",
+    "mimeType": "application/zip",
+    "size": 84237013,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.302316Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.302316Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b3fd0e23-8a0e-460c-b45c-712d3d2c951f",
+    "type": "OpenFile",
+    "name": "Raw_2014_5.zip",
+    "mimeType": "application/zip",
+    "size": 15782944675,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.352375Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.352375Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b501855d-e1e7-4372-bab8-706fd1a993af",
+    "type": "OpenFile",
+    "name": "Raw_2020_3.zip",
+    "mimeType": "application/zip",
+    "size": 3776124924,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.403154Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.403154Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b78638e9-ff5a-40f6-9f54-32a7a0691f99",
+    "type": "OpenFile",
+    "name": "Events_MaxPitch_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 21792222,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.455471Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.455471Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b84aedde-badd-4b05-a01b-5cd7525cc68e",
+    "type": "OpenFile",
+    "name": "MidFreq_2020_2.zip",
+    "mimeType": "application/zip",
+    "size": 995743926,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.507455Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.507455Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "b8c530a5-e11d-4d09-818e-ea638d3d88b2",
+    "type": "OpenFile",
+    "name": "Raw_2017_12.zip",
+    "mimeType": "application/zip",
+    "size": 10042075825,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.557411Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.557411Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "bb8fc513-3ce9-49ca-9369-6897ddd3e86c",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_4.zip",
+    "mimeType": "application/zip",
+    "size": 30429138125,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.607950Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.607950Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "bd975d76-8e44-4045-9654-d1805a43e0c1",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_4.zip",
+    "mimeType": "application/zip",
+    "size": 476760648,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.657835Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.657835Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "bf465ef8-a423-4c98-8da1-310120aa8fd4",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_30_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 635171375,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.707121Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.707121Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c113e8d2-b7c2-4f40-b731-e050ca8475f0",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_7.zip",
+    "mimeType": "application/zip",
+    "size": 165289117,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.760261Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.760261Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c25ab7fc-7adc-40cc-9ce2-a35a5e81bd96",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_7.zip",
+    "mimeType": "application/zip",
+    "size": 2006856900,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.809684Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.809684Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c2b78372-e552-4dd4-8313-94156ef6407c",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_6.zip",
+    "mimeType": "application/zip",
+    "size": 2914084163,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.859334Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.859334Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c348269b-1321-4e1a-a7c3-bf5a5ed494d1",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_7.zip",
+    "mimeType": "application/zip",
+    "size": 52537796,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.909576Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.909576Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c3b8c663-e0c8-4aea-98e9-9c67e18afc30",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_5.zip",
+    "mimeType": "application/zip",
+    "size": 194100235,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:03.960020Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:03.960020Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c4c8d9e6-269d-419c-84bf-b399b0a80427",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2013_12_08_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 14021211,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.007881Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.007881Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c639cf41-053b-4d81-9417-1bda9f1db4f4",
+    "type": "OpenFile",
+    "name": "Raw_2016_7.zip",
+    "mimeType": "application/zip",
+    "size": 466540005,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.054973Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.054973Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c70915c0-5a18-49d1-85ce-65a1618a8859",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_11.zip",
+    "mimeType": "application/zip",
+    "size": 19336901225,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.117519Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.117519Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c8359177-a953-4e47-abce-21229f8854e2",
+    "type": "OpenFile",
+    "name": "Events_StormUrd_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 3285587750,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.164879Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.164879Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c8628726-f99f-4d80-befc-d56d7e68fb13",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_3.zip",
+    "mimeType": "application/zip",
+    "size": 23260827650,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.214889Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.214889Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c89fb0f3-6d7f-4509-ba4c-19b6ae253ae5",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_12.zip",
+    "mimeType": "application/zip",
+    "size": 1130804953,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.263145Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.263145Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "c8ffe589-ac41-4622-8e1c-32807ed94b56",
+    "type": "OpenFile",
+    "name": "Events_StormTor_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 8628339400,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.314058Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.314058Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ca1ee4f1-de2b-4963-a0e1-09ed65aa984b",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2016_01_18_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 110879636,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.363450Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.363450Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cc275738-31e5-4587-ad84-41181561f182",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_3.zip",
+    "mimeType": "application/zip",
+    "size": 14566689252,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.414259Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.414259Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cca6d9be-af1a-44c6-830e-ff3733d2a84a",
+    "type": "OpenFile",
+    "name": "LowFreq_2017_8.zip",
+    "mimeType": "application/zip",
+    "size": 36166344,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.465115Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.465115Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ccadb777-0b39-42f1-8512-a895cfb123b4",
+    "type": "OpenFile",
+    "name": "Raw_2018_1.zip",
+    "mimeType": "application/zip",
+    "size": 20163748675,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.516716Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.516716Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cd71424a-d1b2-41eb-aa65-81bebd4ed520",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_8.zip",
+    "mimeType": "application/zip",
+    "size": 126815651,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.566931Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.566931Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ce2182e7-f413-4ba7-82fb-e87ce9a17820",
+    "type": "OpenFile",
+    "name": "Raw_2016_2.zip",
+    "mimeType": "application/zip",
+    "size": 13266235775,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.617937Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.617937Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cea1abb0-e777-4a59-933c-c1548d6ba113",
+    "type": "OpenFile",
+    "name": "LowFreq_2013_12.zip",
+    "mimeType": "application/zip",
+    "size": 895919877,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.668731Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.668731Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cf0850fd-9ef0-4242-aedd-d56bf2cf01ae",
+    "type": "OpenFile",
+    "name": "Raw_2015_2.zip",
+    "mimeType": "application/zip",
+    "size": 40355890575,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.719498Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.719498Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "cfa5fd64-898c-4fee-8ff0-3156da880a19",
+    "type": "OpenFile",
+    "name": "Raw_2015_9.zip",
+    "mimeType": "application/zip",
+    "size": 8241381500,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.771211Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.771211Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d239ba9c-1c7c-4321-9d66-3a51c9e9c21c",
+    "type": "OpenFile",
+    "name": "MidFreq_2018_1.zip",
+    "mimeType": "application/zip",
+    "size": 2203839231,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.822096Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.822096Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d2622e42-880d-403b-838c-062f5f8016c6",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_6.zip",
+    "mimeType": "application/zip",
+    "size": 7117947250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.873904Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.873904Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d3e328d7-d5f0-4118-8872-89c4dae263e9",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_12.zip",
+    "mimeType": "application/zip",
+    "size": 12810055800,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.926730Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.926730Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d7292f9b-eea6-4b94-92a5-1e764e5f4525",
+    "type": "OpenFile",
+    "name": "Raw_2014_9.zip",
+    "mimeType": "application/zip",
+    "size": 1531773412,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:04.977553Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:04.977553Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d75533e3-81d8-43f3-9f52-5df0989f42d5",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_2.zip",
+    "mimeType": "application/zip",
+    "size": 1622763043,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.049611Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.049611Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d90ac7e5-da04-415d-9ae5-ab7156b91c0c",
+    "type": "OpenFile",
+    "name": "Raw_2015_6.zip",
+    "mimeType": "application/zip",
+    "size": 5394056650,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.101038Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.101038Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "d9363499-8f35-4ced-92d2-16107f7e2ca7",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_4.zip",
+    "mimeType": "application/zip",
+    "size": 2373953558,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.151770Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.151770Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "db804065-22e4-4235-bfc8-d6b3b2fdfc13",
+    "type": "OpenFile",
+    "name": "Raw_2014_3.zip",
+    "mimeType": "application/zip",
+    "size": 12256439700,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.202204Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.202204Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dbc5f534-796d-4c1f-a843-b1b201a9cb94",
+    "type": "OpenFile",
+    "name": "Raw_2015_11.zip",
+    "mimeType": "application/zip",
+    "size": 8993372325,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.252719Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.252719Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dc61b677-f7a5-4986-9f71-278c5f361f48",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_5.zip",
+    "mimeType": "application/zip",
+    "size": 26153110,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.303438Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.303438Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dceaa03d-ba0d-456d-9c5a-e9db8f925d1f",
+    "type": "OpenFile",
+    "name": "Raw_2014_8.zip",
+    "mimeType": "application/zip",
+    "size": 997058454,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.355380Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.355380Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dcf9ab5d-9ece-44fb-b247-9fddaea58d38",
+    "type": "OpenFile",
+    "name": "HighFreq_2019_12.zip",
+    "mimeType": "application/zip",
+    "size": 9406605525,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.406357Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.406357Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dd0ac801-516f-4bd6-bdd9-0e75f1bd548a",
+    "type": "OpenFile",
+    "name": "Raw_2017_4.zip",
+    "mimeType": "application/zip",
+    "size": 9959946225,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.457662Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.457662Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dd3544b0-a1b8-4b05-bc88-d30aa9be171b",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_9.zip",
+    "mimeType": "application/zip",
+    "size": 32640059,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.508976Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.508976Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "dd98b188-dfb6-48ec-9d06-a454d3009184",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_12.zip",
+    "mimeType": "application/zip",
+    "size": 226897326,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.559835Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.559835Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ddb46b4b-9a15-49f5-9450-2a835dd501dd",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_2.zip",
+    "mimeType": "application/zip",
+    "size": 2608493252,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.609476Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.609476Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ddd894c0-ef57-4d01-84df-c2be4897b3b5",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_12.zip",
+    "mimeType": "application/zip",
+    "size": 6722453900,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.660701Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.660701Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e0689ff1-99a7-454a-9917-8343674acda5",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_8.zip",
+    "mimeType": "application/zip",
+    "size": 179946238,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.712937Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.712937Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e1e029da-18d7-428f-bc70-7f8fc9eab557",
+    "type": "OpenFile",
+    "name": "LowFreq_2020_3.zip",
+    "mimeType": "application/zip",
+    "size": 70374471,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.763855Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.763855Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e25204d2-2282-4867-82e1-a5283e8dd5cc",
+    "type": "OpenFile",
+    "name": "HighFreq_2013_12.zip",
+    "mimeType": "application/zip",
+    "size": 50246055775,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.815387Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.815387Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e3da5bdb-36a6-43ac-9e46-68b0b5d8dfc3",
+    "type": "OpenFile",
+    "name": "Raw_2018_3.zip",
+    "mimeType": "application/zip",
+    "size": 9010407800,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.868242Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.868242Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e469daf3-5e7d-4020-b03b-9829e1815361",
+    "type": "OpenFile",
+    "name": "HighFreq_2014_1.zip",
+    "mimeType": "application/zip",
+    "size": 42721382350,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.921156Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.921156Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e4d362d8-5532-4669-9205-e527f8dc26d3",
+    "type": "OpenFile",
+    "name": "LowFreq_2015_6.zip",
+    "mimeType": "application/zip",
+    "size": 117497291,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:05.972445Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:05.972445Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e4d3de8c-6d18-44a1-b82b-7bd58d947997",
+    "type": "OpenFile",
+    "name": "Raw_2016_1.zip",
+    "mimeType": "application/zip",
+    "size": 49122072050,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.023367Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.023367Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e64c10bb-ff89-4758-abcd-3c09083d4960",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_8.zip",
+    "mimeType": "application/zip",
+    "size": 7672560200,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.075040Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.075040Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e68b6e9c-0966-4c57-bce6-d3f04413b6c8",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_3.zip",
+    "mimeType": "application/zip",
+    "size": 1362986699,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.126165Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.126165Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e725fc4a-6a72-4e61-aaf0-b4a17688c36c",
+    "type": "OpenFile",
+    "name": "LowFreq_2014_10.zip",
+    "mimeType": "application/zip",
+    "size": 16943208,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.178299Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.178299Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e83b2ee2-e6fc-49cf-bb7d-a612b431a281",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_11.zip",
+    "mimeType": "application/zip",
+    "size": 207010577,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.230520Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.230520Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e913b638-1417-4c0b-a454-d6826b68ec50",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_2.zip",
+    "mimeType": "application/zip",
+    "size": 143909932,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.280769Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.280769Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "e9c9a80a-85b4-4c43-8a84-5cd25b350195",
+    "type": "OpenFile",
+    "name": "MidFreq_2018_2.zip",
+    "mimeType": "application/zip",
+    "size": 1663470644,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.331600Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.331600Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ea26d34e-8fb2-4bbc-9953-4fdd17b1fea6",
+    "type": "OpenFile",
+    "name": "Events_Low_Wind_2015_12_19_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 115521705,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.383481Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.383481Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ec2ec1d6-7ad2-4b4e-b786-9188ab6aaf04",
+    "type": "OpenFile",
+    "name": "Events_StormNina_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 3461870425,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.435132Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.435132Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ecb15025-bf0e-4b38-9bec-0193b4fbb1b9",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_5.zip",
+    "mimeType": "application/zip",
+    "size": 140216064,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.487Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.487Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ed1f4216-8952-4b7b-8989-eb7354c75c92",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_9.zip",
+    "mimeType": "application/zip",
+    "size": 10803686025,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.539034Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.539034Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ed847d88-01d8-4dc8-8d17-f0750442b0e7",
+    "type": "OpenFile",
+    "name": "MidFreq_2017_3.zip",
+    "mimeType": "application/zip",
+    "size": 982557398,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.593500Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.593500Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ed8be10a-c5b1-46bc-86b8-f944fa014594",
+    "type": "OpenFile",
+    "name": "Raw_2015_1.zip",
+    "mimeType": "application/zip",
+    "size": 10116535925,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.643846Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.643846Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ee96bd98-258b-4151-8010-29192ac5d237",
+    "type": "OpenFile",
+    "name": "LowFreq_2019_11.zip",
+    "mimeType": "application/zip",
+    "size": 103293628,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.694019Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.694019Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "eeeb2aa9-5781-471f-ab47-8a051c0edcee",
+    "type": "OpenFile",
+    "name": "HighFreq_2016_5.zip",
+    "mimeType": "application/zip",
+    "size": 308009642,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.745779Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.745779Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ef7d8a74-5247-4eb9-bec2-e36c5949bf03",
+    "type": "OpenFile",
+    "name": "HighFreq_2015_3.zip",
+    "mimeType": "application/zip",
+    "size": 55773859800,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.797096Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.797096Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f0984ec1-79fb-4f5c-90a1-1309c606ee34",
+    "type": "OpenFile",
+    "name": "MidFreq_2014_6.zip",
+    "mimeType": "application/zip",
+    "size": 395650120,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.847223Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.847223Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f0fa83c3-b2b1-4a08-a6f2-fff60a8770e4",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_10.zip",
+    "mimeType": "application/zip",
+    "size": 3281778091,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.896049Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.896049Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f4e12850-6ae0-4ea5-be3d-86fe3d87f79f",
+    "type": "OpenFile",
+    "name": "Raw_2015_12.zip",
+    "mimeType": "application/zip",
+    "size": 58254878975,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:06.946091Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:06.946091Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f5a0993f-42d8-4c51-ad6b-25cd7fbd8717",
+    "type": "OpenFile",
+    "name": "HighFreq_2018_8.zip",
+    "mimeType": "application/zip",
+    "size": 122373,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.000053Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.000053Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f6a4bc08-a649-4051-9e56-0e0f4a4ed6a7",
+    "type": "OpenFile",
+    "name": "Events_StormTor_LowFreq.zip",
+    "mimeType": "application/zip",
+    "size": 152557165,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.050773Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.050773Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f7436ee9-5b07-4896-84e7-c2aecc37fa6b",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_3.zip",
+    "mimeType": "application/zip",
+    "size": 12118847800,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.100320Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.100320Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "f880c340-ef55-4a5a-ba72-54d866061039",
+    "type": "OpenFile",
+    "name": "Raw_2016_8.zip",
+    "mimeType": "application/zip",
+    "size": 5762391525,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.150742Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.150742Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "faf6b075-7a1d-4d28-95b6-b86d9c082892",
+    "type": "OpenFile",
+    "name": "MidFreq_2015_11.zip",
+    "mimeType": "application/zip",
+    "size": 981316019,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.202883Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.202883Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fafcaae9-acac-4dd7-ae62-927eef0f8c06",
+    "type": "OpenFile",
+    "name": "Raw_2015_7.zip",
+    "mimeType": "application/zip",
+    "size": 1526491821,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.261027Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.261027Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fc5bbb49-8d20-4a37-a961-82b8cde974e4",
+    "type": "OpenFile",
+    "name": "MidFreq_2020_4.zip",
+    "mimeType": "application/zip",
+    "size": 701332583,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.312143Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.312143Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fcbd7245-7983-498e-8c8c-e98e8b5b0b52",
+    "type": "OpenFile",
+    "name": "Events_MaxLift_HighFreq.zip",
+    "mimeType": "application/zip",
+    "size": 1450801250,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.365263Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.365263Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fe14bcbe-de49-486b-b90b-59c64750228d",
+    "type": "OpenFile",
+    "name": "MidFreq_2016_6.zip",
+    "mimeType": "application/zip",
+    "size": 92085937,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.417114Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.417114Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fe611fbe-1b4a-40c3-88f3-c25c823abf17",
+    "type": "OpenFile",
+    "name": "Raw_2014_12.zip",
+    "mimeType": "application/zip",
+    "size": 11515636225,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.467582Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.467582Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "fe933057-5971-44af-a8d8-00a0b6b23568",
+    "type": "OpenFile",
+    "name": "LowFreq_2016_12.zip",
+    "mimeType": "application/zip",
+    "size": 339282910,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.517209Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.517209Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  },
+  {
+    "identifier": "ffc74314-c746-458b-84e0-2155dd144c17",
+    "type": "OpenFile",
+    "name": "HighFreq_2017_4.zip",
+    "mimeType": "application/zip",
+    "size": 13235769450,
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "rightsRetentionStrategy": {
+      "type": "NullRightsRetentionStrategy",
+      "configuredType": "NullRightsRetentionStrategy"
+    },
+    "publishedDate": "2025-06-27T13:14:07.567738Z",
+    "uploadDetails": {
+      "type": "ImportUploadDetails",
+      "source": "DLR",
+      "archive": "DLR",
+      "uploadedDate": "2025-06-27T13:14:07.567738Z"
+    },
+    "allowedOperations": [
+      "download",
+      "read-metadata"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "checked_at_utc": "2026-10-25T09:58:21.244232+00:00",
+  "repository": "https://github.com/FanyangCHD/TFGFormer-for-SHM",
+  "tag": "v1.0.0",
+  "commit": "d73328ad273b4f54aa6dd73498d9dd2b0b4a1fe1",
+  "files": {
+    "TFGFormer/CantonTower/Network/DilateFormer.py": "0379a791ba2037f96d9b18fb856867892650b55e586facd8bd61a085d25464f0",
+    "TFGFormer/CantonTower/Network/TFGFormer.py": "33cebd90f8774fb27e4e6f9b1c5d20fa761d08289850960db6886dcaf1a9e09e",
+    "TFGFormer/CantonTower/Utils/SignalProcessing.py": "fa2c65eaa70e2917e82cda5f24633c08b9db481f07d19ed5714a658fc1335676",
+    "TFGFormer/CantonTower/Utils/TimeFrequencyLoss.py": "a5734558b72de19bf23914fc7de5d981b67121487259fbdc676920e76da78f57",
+    "TFGFormer/CantonTower/Utils/dataset.py": "d6bb488f24fa9af49a7a0e7b6a578c44c3f94b793be8b2e15eab58fec567359f",
+    "TFGFormer/CantonTower/Utils/utils.py": "3c30c8ae87123a439064782487f7e31796017fd919290ac5eec712bcd90a315b",
+    "TFGFormer/CantonTower/train.py": "e62ccdac24a5b67fedd29f251e36977c8006879eb4d87dd5853af258e772e862",
+    "TFGFormer/HardangerBridge/Network/DilateFormer.py": "0379a791ba2037f96d9b18fb856867892650b55e586facd8bd61a085d25464f0",
+    "TFGFormer/HardangerBridge/Network/TFGFormer.py": "00400c117176e13954319b5299b6af2c97778a1e6023883343883d1f9c4ea72e",
+    "TFGFormer/HardangerBridge/Utils/SignalProcessing.py": "fa2c65eaa70e2917e82cda5f24633c08b9db481f07d19ed5714a658fc1335676",
+    "TFGFormer/HardangerBridge/Utils/TimeFrequencyLoss.py": "a5734558b72de19bf23914fc7de5d981b67121487259fbdc676920e76da78f57",
+    "TFGFormer/HardangerBridge/Utils/dataset.py": "d6bb488f24fa9af49a7a0e7b6a578c44c3f94b793be8b2e15eab58fec567359f",
+    "TFGFormer/HardangerBridge/Utils/utils.py": "edbfe2fa3258031a98be4507c1179cfcf995d53abc4b7ce896727efbe91f25cf",
+    "TFGFormer/HardangerBridge/train.py": "858b6b9f91a379e5f02216ec5461b0d64b09093389e97ad1c01b567f6a8e0e2a"
+  },
+  "checkpoints": [],
+  "status": "source_audited_not_executed"
+}

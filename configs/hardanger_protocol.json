@@ -1,0 +1,96 @@
+{
+  "status": "pending_supplementary_and_dataset_verification",
+  "input_shape": [
+    "B",
+    1,
+    16,
+    1024
+  ],
+  "sample_npy_shape": [
+    16,
+    1024
+  ],
+  "recommended_array_dtype": "float32",
+  "mask_convention": {
+    "observed": 1,
+    "missing": 0
+  },
+  "paper": {
+    "python": "3.10",
+    "torch": "2.3.0",
+    "batch_size": 16,
+    "epochs": 200,
+    "learning_rate": 0.01,
+    "frequency_weight": 0.5
+  },
+  "released_code": {
+    "learning_rate": 0.001,
+    "frequency_weight": 1.0,
+    "frequency_loss": "(mse(real_rfft2_ortho)+mse(imag_rfft2_ortho))/2"
+  },
+  "unverified": [
+    "exact_raw_files_and_dates",
+    "sensor_order_mapping_to_paper_IDs",
+    "invalid_sequence_removal_details",
+    "random_split_seed_and_exact_assignment",
+    "normalization_claim_vs_official_dataset_readme"
+  ],
+  "experiment": {
+    "learning_rate": 0.01,
+    "learning_rate_source": "paper; explicitly confirmed by user",
+    "seed": 42,
+    "dataset": "data/processed/hardanger_2014_10_fig4",
+    "missing_rate": 0.25,
+    "batch_size": 16,
+    "epochs": 200,
+    "train_drop_last": true,
+    "validation_test_drop_last": false,
+    "gradient_clipping": null
+  },
+  "verified_supplementary": {
+    "source": "paper/supplementary.pdf, Note 2/Table S2, pages 3-4",
+    "sampling_rate_hz": 10,
+    "subset": "mid_freq",
+    "axis": "vertical Z",
+    "additional_filter": false,
+    "additional_normalization": false,
+    "initial_samples_to_trim": 867,
+    "window_length": 1024,
+    "window_stride": 1024,
+    "split": "random window split 7:2:1",
+    "masked_channel_ids_1based": {
+      "25": [
+        2,
+        8,
+        11,
+        13
+      ],
+      "50": [
+        2,
+        5,
+        7,
+        8,
+        9,
+        11,
+        13,
+        14
+      ],
+      "75": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        16
+      ]
+    },
+    "metrics": "global complete matrix, with separate masked-channel metrics"
+  },
+  "sensor_mapping_source": "Inferred from paper Fig.4b and raw coordinates; use manifest for exact ordering."
+}

@@ -1,0 +1,38 @@
+{
+  "environment": "Python 3.10.22 / PyTorch 2.3.0+cu121 / cuDNN 8.9.2 / NVIDIA L20",
+  "common": {
+    "data_subset": "MidFreq_2014_10.zip",
+    "optimizer": "Adam",
+    "learning_rate": 0.01,
+    "batch_size": 16,
+    "epochs": 200,
+    "gate_layout": "released",
+    "released_epoch_reseed": true
+  },
+  "scenarios": {
+    "S25_seed42": {
+      "status": "completed",
+      "best_epoch": 166,
+      "global_MAE_g": 0.0004888346861395525,
+      "global_RMSE_g": 0.0013044837183011078,
+      "missing_MAE_g": 0.00195533874455821,
+      "missing_RMSE_g": 0.002608967436602216,
+      "missing_MAE_improvement_vs_zero_percent": 50.8450444373618,
+      "missing_RMSE_improvement_vs_zero_percent": 47.34352178489648
+    },
+    "S50_seed42": {"status": "failed_nonfinite_loss", "failed_epoch": 5, "failed_split": "train"},
+    "S50_seed0": {"status": "failed_nonfinite_loss", "failed_epoch": 4, "failed_split": "val"},
+    "S75_seed42": {
+      "status": "completed",
+      "best_epoch": 199,
+      "global_MAE_g": 0.0016206326598954001,
+      "global_RMSE_g": 0.002465537876534807,
+      "missing_MAE_g": 0.0021608435465271998,
+      "missing_RMSE_g": 0.002846957913429178,
+      "missing_MAE_improvement_vs_zero_percent": 37.03170364292274,
+      "missing_RMSE_improvement_vs_zero_percent": 34.47220868853131
+    }
+  },
+  "quality_note": "The fixed S75 example contains strong periodic artifacts and does not reproduce paper-level time-frequency fidelity.",
+  "paper_table_reproduction": false
+}

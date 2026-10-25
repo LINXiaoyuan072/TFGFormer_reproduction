@@ -1,0 +1,26 @@
+{
+  "data": "${WORKSPACE}/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/S25",
+  "output": "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch24",
+  "epochs": 200,
+  "batch_size": 16,
+  "lr": 0.01,
+  "seed": 42,
+  "clip_grad": null,
+  "torch": "2.4.0+cu121",
+  "python": "3.11.17 (main, Oct  1 2026, 20:17:42) [GCC 14.3.0]",
+  "device": "cuda:0",
+  "gpu": "NVIDIA L20",
+  "parameter_count": 1805741,
+  "loss": "released JointTimeFreqLoss(spatial_weight=1, freq_weight=1), internal /2 and ortho rfft2",
+  "learning_rate_source": "paper, user confirmed",
+  "dataset_manifest": "${WORKSPACE}/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/manifest.json",
+  "adapter_changes": [
+    "filename-matched pairs",
+    "explicit observed-value preservation",
+    "seed before model initialization",
+    "all validation/test samples included"
+  ],
+  "train_drop_last": true,
+  "status": "completed",
+  "best_epoch": 200
+}

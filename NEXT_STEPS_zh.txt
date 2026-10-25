@@ -1,0 +1,22 @@
+下一步操作说明（路径相对于 TFGFormer_reproduction）
+
+当前里程碑
+1. 论文环境已经建好并验证：Python 3.10.22、PyTorch 2.3.0+cu121、cuDNN 8.9.2。
+2. 正文学习率 0.01、Adam、batch size 16、200 轮的 S25 原发布模型已完成。
+3. 发布 train.py 每轮调用 seed_all(42)。适配器需带 --released-epoch-reseed 才会复现这一行为；
+   不带该选项的 PyTorch 2.3 实验在第 5 轮验证时出现非有限损失。
+4. 主结果位于 results/hardanger_S25_fig4_200ep_torch23_releasedloop。
+
+可直接运行
+.venv/bin/python scripts/check_dataset.py --data data/processed/hardanger_2014_10_fig4
+.venv/bin/python scripts/train_hardanger.py --data data/processed/hardanger_2014_10_fig4/S50 --epochs 200 --batch-size 16 --lr 0.01 --seed 42 --released-epoch-reseed --output results/hardanger_S50_fig4_200ep_torch23_releasedloop
+.venv/bin/python scripts/train_hardanger.py --data data/processed/hardanger_2014_10_fig4/S75 --epochs 200 --batch-size 16 --lr 0.01 --seed 42 --released-epoch-reseed --output results/hardanger_S75_fig4_200ep_torch23_releasedloop
+
+解释边界
+当前数据只来自 MidFreq_2014_10.zip，共 119 个窗口。官方清单包含 58 个 MidFreq 月度包，
+总计约 75.8 GiB；论文只写使用 mid_freq 子集，没有明确月份范围。因此当前是流程级子集复现，
+不能称为论文表格复现。完整复现还需要确认数据时间范围，并对 S25/S50/S75 各完成五次独立运行。
+
+诊断变体
+scripts/model_variants.py 的 channel 布局仅用于调查 HybridGate reshape，不属于作者发布模型。
+PyTorch 2.4 子集上它降低了误差，但没有降低 32 点谐波误差占比，不能据此断言发布实现有误。

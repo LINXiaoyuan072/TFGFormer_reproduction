@@ -1,0 +1,22 @@
+{
+  "source_directory": "TFGFormer_reproduction",
+  "snapshot_date": "2026-10-25",
+  "upstream_url": null,
+  "upstream_commit": null,
+  "branch": "main",
+  "history": "clean snapshot; original history not imported",
+  "submodules": [],
+  "external_sources": [
+    {
+      "path": "upstream/TFGFormer-for-SHM",
+      "url": "https://github.com/FanyangCHD/TFGFormer-for-SHM.git",
+      "commit": "d73328ad273b4f54aa6dd73498d9dd2b0b4a1fe1"
+    }
+  ],
+  "modifications": "Current local source/configuration changes, upload exclusions, README and provenance documentation. See original working tree for original history.",
+  "snapshot_refreshed_at_utc": "2026-10-25T13:15:23Z",
+  "upload_fixes": [
+    "Create paper/ and data/raw/ before fresh-checkout downloads",
+    "Include latest adapters and small experiment JSON reports; no weights or upstream implementation"
+  ]
+}

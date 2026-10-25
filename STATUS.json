@@ -1,0 +1,84 @@
+{
+  "updated_at_utc": "2026-10-25T13:15:23Z",
+  "learning_rate": 0.01,
+  "learning_rate_confirmed_by_user": true,
+  "data_ready": "data/processed/hardanger_2014_10_fig4",
+  "data_check": "data/processed/hardanger_2014_10_fig4/checks.json",
+  "primary_experiment": "results/hardanger_S25_fig4_200ep_torch23_releasedloop",
+  "framework_note": "论文环境已验证：Python 3.10.22 / PyTorch 2.3.0+cu121 / cuDNN 8.9.2 / NVIDIA L20。",
+  "paper_environment_installation": {
+    "status_at_last_check": "ready_and_verified",
+    "core_packages": "Python 3.10.22 / PyTorch 2.3.0 / NumPy 1.26.3",
+    "cuda_libraries": "11 matching distributions copied; see results/cuda_reuse_manifest.json",
+    "cudnn": "8.9.2.26 installed; official wheel SHA256 verified",
+    "logs": [
+      "logs/paper_core_install.log",
+      "logs/paper_aux_install.log",
+      "logs/cudnn_download.log"
+    ],
+    "active_installer": false,
+    "pip_check": "passed",
+    "smoke_test": "results/model_smoke_paper23.json"
+  },
+  "prior_experiments": {
+    "results/hardanger_S25_pilot_torch24": "completed 10 epochs, worse than zero-fill baseline",
+    "results/hardanger_S25_200ep_torch24": "nonfinite training loss at epoch 34, no test evaluation",
+    "results/hardanger_S25_200ep_clip1_torch24": "diagnostic gradient clipping did not prevent nonfinite training loss at epoch 59",
+    "results/hardanger_S25_fig4_200ep_torch23": "without per-epoch reseeding, nonfinite validation loss at epoch 5"
+  },
+  "paper_table_reproduction": false,
+  "primary_experiment_status": "completed",
+  "test_metrics": {
+    "best_epoch": 166,
+    "best_val_loss": 3.4497772068552086e-06,
+    "test_windows": 13,
+    "metrics_aggregation": "all test elements pooled; g units; RE given both as ratio and percent",
+    "model_global": {
+      "MAE_g": 0.0004888346861395525,
+      "RMSE_g": 0.0013044837183011078,
+      "RE_ratio": 0.31013219637150347,
+      "RE_percent": 31.013219637150346,
+      "R2_flattened": 0.8565518968303077,
+      "SNR_dB": 10.169062902880118
+    },
+    "model_missing_only": {
+      "MAE_g": 0.00195533874455821,
+      "RMSE_g": 0.002608967436602216,
+      "RE_ratio": 0.5265647821510352,
+      "RE_percent": 52.65647821510352,
+      "R2_flattened": 0.495735223446507,
+      "SNR_dB": 5.570963817205846
+    },
+    "zero_fill_global": {
+      "MAE_g": 0.000994476915998083,
+      "RMSE_g": 0.00247734706634243,
+      "RE_ratio": 0.5889725383923377,
+      "RE_percent": 58.89725383923376,
+      "R2_flattened": 0.48264197311653967,
+      "SNR_dB": 4.59809908567427
+    },
+    "zero_fill_missing_only": {
+      "MAE_g": 0.003977907663992332,
+      "RMSE_g": 0.00495469413268486,
+      "RE_ratio": 1.0,
+      "RE_percent": 100.0,
+      "R2_flattened": -0.8186746569658643,
+      "SNR_dB": 0.0
+    },
+    "observed_values_preserved": true,
+    "elapsed_seconds": 230.4727816209197,
+    "limitation": "Subset pilot with unverified paper month/channel mapping; not a paper-table reproduction."
+  },
+  "scenario_summary": "results/scenario_summary_torch23.json",
+  "additional_scenarios": {
+    "S50_seed42": "failed_nonfinite_train_loss_at_epoch_5",
+    "S50_seed0": "failed_nonfinite_val_loss_at_epoch_4",
+    "S75_seed42": "completed_best_epoch_199"
+  },
+  "visual_quality": "S25 and S75 fixed examples contain strong periodic spurious peaks; paper time-frequency fidelity is not reproduced.",
+  "gate_layout_diagnostic": "results/gate_layout_diagnostic.json",
+  "framework_and_loop_comparison": "results/framework_and_loop_comparison.json",
+  "paper_targets": "results/paper_targets_hardanger.json",
+  "paper_source_data": "paper/supplementary_data.xlsx",
+  "data_scope_note": "仅 2014-10 子集；官方 58 个 MidFreq 包总计约 75.8 GiB，论文未明确月份范围。"
+}

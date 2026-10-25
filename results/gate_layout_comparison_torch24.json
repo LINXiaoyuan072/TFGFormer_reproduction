@@ -1,0 +1,60 @@
+{
+  "identical_test_arrays_verified": true,
+  "runs": [
+    {
+      "run": "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch24",
+      "torch": "2.4.0+cu121",
+      "gate_layout": "released",
+      "seed": 42,
+      "learning_rate": 0.01,
+      "epochs": 200,
+      "best_epoch": 200,
+      "global": {
+        "MAE_g": 0.00047943733002282107,
+        "RMSE_g": 0.0012848492710589657,
+        "RE_ratio": 0.30546423910816844,
+        "RE_percent": 30.546423910816845,
+        "R2_flattened": 0.8608376195357076,
+        "SNR_dB": 10.300792511508917
+      },
+      "missing_only": {
+        "MAE_g": 0.0019177493200912843,
+        "RMSE_g": 0.0025696985421179313,
+        "RE_ratio": 0.5186391880714255,
+        "RE_percent": 51.863918807142554,
+        "R2_flattened": 0.5108008740522327,
+        "SNR_dB": 5.702693425834644
+      },
+      "demeaned_missing_magnitude_spectrum_relative_error": 1.001860776848832,
+      "missing_error_nonDC_power_at_32sample_harmonics_fraction": 0.16045605301282717
+    },
+    {
+      "run": "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_channel_gate_torch24",
+      "torch": "2.4.0+cu121",
+      "gate_layout": "channel",
+      "seed": 42,
+      "learning_rate": 0.01,
+      "epochs": 200,
+      "best_epoch": 166,
+      "global": {
+        "MAE_g": 0.000385472845627462,
+        "RMSE_g": 0.001065137646123142,
+        "RE_ratio": 0.2532292837356012,
+        "RE_percent": 25.32292837356012,
+        "R2_flattened": 0.9043623374005364,
+        "SNR_dB": 11.929721468401386
+      },
+      "missing_only": {
+        "MAE_g": 0.001541891382509848,
+        "RMSE_g": 0.002130275292246284,
+        "RE_ratio": 0.4299509183005665,
+        "RE_percent": 42.995091830056644,
+        "R2_flattened": 0.6638038182786776,
+        "SNR_dB": 7.331622382727117
+      },
+      "demeaned_missing_magnitude_spectrum_relative_error": 0.7874456268071831,
+      "missing_error_nonDC_power_at_32sample_harmonics_fraction": 0.16107457041092516
+    }
+  ],
+  "scope": "One seed on the 2014-10 subset; environment changes involve multiple package versions, not only torch."
+}
