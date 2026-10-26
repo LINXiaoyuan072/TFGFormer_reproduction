@@ -1,0 +1,941 @@
+{
+  "status": "subset_method_reproduction",
+  "archive": "MidFreq_2014_10.zip",
+  "archive_sha256": "88f095bd2035674ee033ef22b8e3afc3782a560da042c45cd7e2f861a38d1bac",
+  "sampling_rate_hz": 10,
+  "unit": "g",
+  "axis": "z",
+  "dtype": "float32",
+  "window": 1024,
+  "stride": 1024,
+  "seed": 42,
+  "additional_normalization": false,
+  "additional_filtering": false,
+  "split_counts": {
+    "train": 83,
+    "val": 23,
+    "test": 13
+  },
+  "sensor_mapping": [
+    {
+      "model_channel_1based": 1,
+      "logger_channel": 2,
+      "sensor_name": "H1 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 2,
+      "logger_channel": 1,
+      "sensor_name": "H1 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 3,
+      "logger_channel": 3,
+      "sensor_name": "H2 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 4,
+      "logger_channel": 4,
+      "sensor_name": "H3 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 5,
+      "logger_channel": 5,
+      "sensor_name": "H3 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 6,
+      "logger_channel": 6,
+      "sensor_name": "H4 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 7,
+      "logger_channel": 7,
+      "sensor_name": "H4 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 8,
+      "logger_channel": 8,
+      "sensor_name": "H5 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 9,
+      "logger_channel": 9,
+      "sensor_name": "H5 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 10,
+      "logger_channel": 10,
+      "sensor_name": "H6 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 11,
+      "logger_channel": 11,
+      "sensor_name": "H6 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 12,
+      "logger_channel": 12,
+      "sensor_name": "H7 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 13,
+      "logger_channel": 13,
+      "sensor_name": "H7 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 14,
+      "logger_channel": 14,
+      "sensor_name": "H8 East",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 15,
+      "logger_channel": 16,
+      "sensor_name": "H9 Vest",
+      "component": "z",
+      "unit": "g"
+    },
+    {
+      "model_channel_1based": 16,
+      "logger_channel": 15,
+      "sensor_name": "H9 East",
+      "component": "z",
+      "unit": "g"
+    }
+  ],
+  "records": [
+    {
+      "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    },
+    {
+      "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+      "samples": 18600,
+      "accepted_windows": 17,
+      "nonfinite_values": 0
+    }
+  ],
+  "excluded_windows": [],
+  "mapping_source": "Inferred from paper Fig.4b (Bu/Vallavik, X/Y arrows) and raw sensor names/coordinates; not author-confirmed.",
+  "samples": {
+    "train": [
+      {
+        "id": "000002",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000095",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000091",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000033",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000073",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000068",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000051",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000003",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000000",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000052",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000038",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000025",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000028",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000070",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000056",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000045",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000024",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000046",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000112",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000020",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000092",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000018",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000104",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000055",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000087",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000098",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000118",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000069",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000079",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000027",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000004",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000082",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000116",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000021",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000037",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000080",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000115",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000059",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000050",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000094",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000007",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000075",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000083",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000026",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000072",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000103",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000088",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000010",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000029",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000063",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000106",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000081",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000017",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000039",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000101",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000109",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000108",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000093",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000040",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000096",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000042",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000078",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000005",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000084",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000001",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000113",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000071",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000085",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000100",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000111",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000043",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000090",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000032",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000061",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000057",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000076",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000023",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000114",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000086",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      },
+      {
+        "id": "000015",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000048",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000060",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000009",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      }
+    ],
+    "val": [
+      {
+        "id": "000062",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000031",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000089",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 4963,
+        "end_sample_exclusive": 5987
+      },
+      {
+        "id": "000016",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000044",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 11107,
+        "end_sample_exclusive": 12131
+      },
+      {
+        "id": "000099",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000067",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 17251,
+        "end_sample_exclusive": 18275
+      },
+      {
+        "id": "000034",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000030",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000058",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000074",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000105",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000117",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000054",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 3939,
+        "end_sample_exclusive": 4963
+      },
+      {
+        "id": "000049",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000006",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 7011,
+        "end_sample_exclusive": 8035
+      },
+      {
+        "id": "000110",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      },
+      {
+        "id": "000011",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 12131,
+        "end_sample_exclusive": 13155
+      },
+      {
+        "id": "000102",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 867,
+        "end_sample_exclusive": 1891
+      },
+      {
+        "id": "000041",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 8035,
+        "end_sample_exclusive": 9059
+      },
+      {
+        "id": "000022",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000019",
+        "recording": "2014_10/HB141M-2014-10-03_03-35-16_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000035",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 1891,
+        "end_sample_exclusive": 2915
+      }
+    ],
+    "test": [
+      {
+        "id": "000064",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000047",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000012",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000053",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000107",
+        "recording": "2014_10/HB141M-2014-10-04_11-06-00_MidFreq.mat",
+        "start_sample": 5987,
+        "end_sample_exclusive": 7011
+      },
+      {
+        "id": "000014",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000013",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 14179,
+        "end_sample_exclusive": 15203
+      },
+      {
+        "id": "000066",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 16227,
+        "end_sample_exclusive": 17251
+      },
+      {
+        "id": "000036",
+        "recording": "2014_10/HB141M-2014-10-03_04-23-12_MidFreq.mat",
+        "start_sample": 2915,
+        "end_sample_exclusive": 3939
+      },
+      {
+        "id": "000097",
+        "recording": "2014_10/HB141M-2014-10-04_10-24-13_MidFreq.mat",
+        "start_sample": 13155,
+        "end_sample_exclusive": 14179
+      },
+      {
+        "id": "000065",
+        "recording": "2014_10/HB141M-2014-10-04_07-39-21_MidFreq.mat",
+        "start_sample": 15203,
+        "end_sample_exclusive": 16227
+      },
+      {
+        "id": "000077",
+        "recording": "2014_10/HB141M-2014-10-04_09-48-34_MidFreq.mat",
+        "start_sample": 10083,
+        "end_sample_exclusive": 11107
+      },
+      {
+        "id": "000008",
+        "recording": "2014_10/HB141M-2014-10-01_18-46-04_MidFreq.mat",
+        "start_sample": 9059,
+        "end_sample_exclusive": 10083
+      }
+    ]
+  },
+  "masked_channel_ids_1based": {
+    "25": [
+      2,
+      8,
+      11,
+      13
+    ],
+    "50": [
+      2,
+      5,
+      7,
+      8,
+      9,
+      11,
+      13,
+      14
+    ],
+    "75": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      16
+    ]
+  },
+  "limitations": [
+    "Paper month is unspecified; 2014-10 is a selected subset.",
+    "Model IDs inferred from Fig.4b and raw coordinates; first/last logger pairs swapped versus raw order.",
+    "First 867 points trimmed from EACH independent recording; paper trimming scope unspecified.",
+    "Invalid windows dropped without joining across gaps.",
+    "Random nonoverlapping-window split follows supplementary; adjacent windows may remain correlated.",
+    "Official MAT values in g retained without additional normalization."
+  ]
+}

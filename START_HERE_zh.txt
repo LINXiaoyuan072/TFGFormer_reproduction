@@ -1,13 +1,13 @@
-最新入口：请先阅读 NEXT_STEPS_zh.txt 和 STATUS.json。
-当前已完成 2014-10 子集、修正图 4b 映射、25% 缺失场景的 200 轮训练（学习率 0.01）。
-当前实验使用临时 PyTorch 2.4/Python 3.11；论文环境依赖下载失败，尚未完成对应版本复跑。
-本文件下方保留早期检查记录；后续已确认的参数以 NEXT_STEPS_zh.txt 和 manifest.json 为准。
+最新入口：请先阅读 REPRODUCTION_GUIDE_zh.md、STATUS.json 和 NEXT_STEPS_zh.txt。
+当前已完成论文 PyTorch 2.3 环境、2014-10 子集、S25/S50/S75 训练和详细可视化；
+所有正式复跑保持正文学习率 0.01。完整过程和最新结论以 REPRODUCTION_GUIDE_zh.md 为准。
+本文件下方保留早期检查记录，可能包含已经解决的历史问题。
 注意：本次数据包实际是 SciPy 可读的传统 MAT，而不是 HDF5；不能只根据 README 假设格式。
 
 TFGFormer 逐步复现：从 Hardanger Bridge 开始
 
 当前阶段：第 1 步，取得论文与作者代码、审查数据接口。尚未执行模型推理或训练。
-目录：${WORKSPACE}/TFGFormer_reproduction
+目录：/zeron-vepfs/tjqc/xiaoyuan.lin/TFGFormer_reproduction
 
 已完成
 1. 下载公开论文 paper/article.pdf，保留官方网页 paper/article.html。

@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "dataset": "TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4",
+  "sample_count": 119,
+  "verified_scenario_sample_pairs": 357,
+  "split_counts": {
+    "train": 83,
+    "val": 23,
+    "test": 13
+  },
+  "split_ids_disjoint": true,
+  "raw_sample_intervals_nonoverlapping": true,
+  "observed_values_exact": true,
+  "fixed_masks_match_supplementary": true,
+  "finite_float32_labels_and_features": true,
+  "limitations": "Does not remove statistical dependence between adjacent nonoverlapping windows."
+}

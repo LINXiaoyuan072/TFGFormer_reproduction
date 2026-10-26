@@ -1,0 +1,43 @@
+{
+  "best_epoch": null,
+  "best_val_loss": null,
+  "test_windows": 13,
+  "model_global": {
+    "MAE_g": 0.00042365491712523,
+    "RMSE_g": 0.0011679921847373767,
+    "RE_ratio": 0.27768225583459616,
+    "RE_percent": 27.768225583459618,
+    "R2_flattened": 0.885000127784034,
+    "SNR_dB": 11.129037424032099
+  },
+  "model_missing_only": {
+    "MAE_g": 0.00169461966850092,
+    "RMSE_g": 0.0023359843694747535,
+    "RE_ratio": 0.4714689357037919,
+    "RE_percent": 47.14689357037919,
+    "R2_flattened": 0.5957396188218367,
+    "SNR_dB": 6.530938338357829
+  },
+  "zero_fill_global": {
+    "MAE_g": 0.000994476915998083,
+    "RMSE_g": 0.00247734706634243,
+    "RE_ratio": 0.5889725383923377,
+    "RE_percent": 58.89725383923376,
+    "R2_flattened": 0.48264197311653967,
+    "SNR_dB": 4.59809908567427
+  },
+  "zero_fill_missing_only": {
+    "MAE_g": 0.003977907663992332,
+    "RMSE_g": 0.00495469413268486,
+    "RE_ratio": 1.0,
+    "RE_percent": 100.0,
+    "R2_flattened": -0.8186746569658643,
+    "SNR_dB": 0.0
+  },
+  "observed_values_preserved": true,
+  "ensemble": "fixed arithmetic mean; no test-set weight fitting",
+  "source_runs": [
+    "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch23_releasedloop",
+    "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch23_channelgate"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "status": "completed",
+  "method": "fixed_50_50_prediction_ensemble",
+  "source_runs": [
+    "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch23_releasedloop",
+    "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch23_channelgate"
+  ],
+  "test_weight_tuning": false
+}

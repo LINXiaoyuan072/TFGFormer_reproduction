@@ -5,7 +5,9 @@
 2. 正文学习率 0.01、Adam、batch size 16、200 轮的 S25 原发布模型已完成。
 3. 发布 train.py 每轮调用 seed_all(42)。适配器需带 --released-epoch-reseed 才会复现这一行为；
    不带该选项的 PyTorch 2.3 实验在第 5 轮验证时出现非有限损失。
-4. 主结果位于 results/hardanger_S25_fig4_200ep_torch23_releasedloop。
+4. 原发布配置主结果位于 results/hardanger_S25_fig4_200ep_torch23_releasedloop。
+5. 诊断变体已经完成 S25/S50/S75；当前汇总位于
+   results/hardanger_selected_methods_summary_v2.png 和同名 JSON。
 
 可直接运行
 .venv/bin/python scripts/check_dataset.py --data data/processed/hardanger_2014_10_fig4
@@ -19,4 +21,13 @@
 
 诊断变体
 scripts/model_variants.py 的 channel 布局仅用于调查 HybridGate reshape，不属于作者发布模型。
-PyTorch 2.4 子集上它降低了误差，但没有降低 32 点谐波误差占比，不能据此断言发布实现有误。
+在论文 PyTorch 2.3 环境中，它降低了 S25 和 S75 的缺失位置误差，并显著压低 S75 固定
+样本中的周期伪峰；S50/S75 还使用了梯度裁剪 1.0。不能据此断言发布实现有误。
+
+建议优先级
+1. 下载更多 Hardanger MidFreq 月度数据，保持当前预处理、固定学习率 0.01 和显式划分清单，
+   先验证误差是否随训练窗口数稳定下降。当前 119 个窗口不足以支撑论文精度复现。
+2. 向作者确认论文使用月份、传感器到 16 个模型通道的映射，以及“去除前 867 点”是逐文件
+   还是全数据一次执行。
+3. 数据范围确认后，对 S25/S50/S75 各做五次独立运行并报告均值与标准差；发布布局和
+   channel-layout 诊断分表呈现，避免混淆论文复现与改进实验。

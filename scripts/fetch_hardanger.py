@@ -22,8 +22,6 @@ def main():
     parser.add_argument('names', nargs='+')
     parser.add_argument('--workers', type=int, default=1)
     args = parser.parse_args()
-    (ROOT / 'paper').mkdir(parents=True, exist_ok=True)
-    (ROOT / 'data/raw').mkdir(parents=True, exist_ok=True)
     metadata_path = ROOT / 'paper/nva_publication_api.json'
     if not metadata_path.exists():
         with request(API) as response:

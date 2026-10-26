@@ -1,0 +1,54 @@
+{
+  "selected_runs": {
+    "S25": "results/hardanger_S25_torch23_fixed_ensemble",
+    "S50": "results/hardanger_S50_fig4_200ep_torch23_channelgate_clip1",
+    "S75": "results/hardanger_S75_torch23_fixed_ensemble"
+  },
+  "current_global": {
+    "MAE": {
+      "S25": 0.00042365491712523,
+      "S50": 0.0007313718075225545,
+      "S75": 0.0012679713151226147
+    },
+    "RMSE": {
+      "S25": 0.0011679921847373767,
+      "S50": 0.0014166342387599625,
+      "S75": 0.0019817501106178443
+    },
+    "RE": {
+      "S25": 0.27768225583459616,
+      "S50": 0.3367952253891515,
+      "S75": 0.4711477083560776
+    }
+  },
+  "paper_means": {
+    "MAE": {
+      "S25": 9.9e-05,
+      "S50": 0.0003104,
+      "S75": 0.0007372
+    },
+    "RMSE": {
+      "S25": 0.0002844,
+      "S50": 0.0006252,
+      "S75": 0.001235
+    },
+    "RE": {
+      "S25": 0.013829,
+      "S50": 0.030373,
+      "S75": 0.0599854
+    }
+  },
+  "missing_improvement_vs_zero_percent": {
+    "MAE": {
+      "S25": 57.39922060432756,
+      "S50": 61.11390509237544,
+      "S75": 50.73405866813332
+    },
+    "RMSE": {
+      "S25": 52.85310642962081,
+      "S50": 57.049792108822416,
+      "S75": 47.330069874019706
+    }
+  },
+  "selection_note": "Uses the best stable method tried per scenario; this is a diagnostic summary, not a like-for-like paper table reproduction."
+}

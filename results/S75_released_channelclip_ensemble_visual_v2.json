@@ -1,0 +1,62 @@
+{
+  "identical_input_target_mask_verified": true,
+  "fixed_sample_index": 0,
+  "fixed_model_channel_1based": 1,
+  "missing_channels_1based": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    16
+  ],
+  "released": {
+    "run": "results/hardanger_S75_fig4_200ep_torch23_releasedloop",
+    "missing_only": {
+      "MAE_g": 0.0021608435465271998,
+      "RMSE_g": 0.002846957913429178,
+      "RE_ratio": 0.655277913114687,
+      "RE_percent": 65.5277913114687,
+      "R2_flattened": 0.3666681879625183,
+      "SNR_dB": 3.671489403705558
+    }
+  },
+  "variant": {
+    "run": "results/hardanger_S75_fig4_200ep_torch23_channelgate_clip1",
+    "missing_only": {
+      "MAE_g": 0.0017121537979051334,
+      "RMSE_g": 0.002325097400939683,
+      "RE_ratio": 0.5351624502383214,
+      "RE_percent": 53.51624502383214,
+      "R2_flattened": 0.5775731542297761,
+      "SNR_dB": 5.430287330305228
+    }
+  },
+  "variant_label": "Channel layout + clip",
+  "fixed_equal_weight_ensemble": {
+    "missing_only": {
+      "MAE_g": 0.0016906284201634863,
+      "RMSE_g": 0.0022883279196635664,
+      "RE_ratio": 0.526699301259803,
+      "RE_percent": 52.6699301259803,
+      "R2_flattened": 0.5908281687256323,
+      "SNR_dB": 5.5687451558886645
+    }
+  },
+  "variant_improvement_percent": {
+    "MAE": 20.764564345400117,
+    "RMSE": 18.330461087178872
+  },
+  "ensemble_improvement_over_released_percent": {
+    "MAE": 21.76072058152567,
+    "RMSE": 19.621996908719264
+  },
+  "heatmap_shared_vmax_g_p99": 0.0054083531722426414,
+  "selection_note": "sample 0 and the first masked channel are fixed by rule; no best-case sample selection"
+}

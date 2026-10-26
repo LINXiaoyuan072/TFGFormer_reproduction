@@ -1,6 +1,6 @@
 {
-  "source": "${HOME}/miniconda3/envs/dronesplat/lib/python3.11/site-packages",
-  "destination": "${WORKSPACE}/TFGFormer_reproduction/.venv/lib/python3.10/site-packages",
+  "source": "/home/linxiaoyuan/miniconda3/envs/dronesplat/lib/python3.11/site-packages",
+  "destination": "/zeron-vepfs/tjqc/xiaoyuan.lin/TFGFormer_reproduction/.venv/lib/python3.10/site-packages",
   "method": "copies of matching CUDA wheels; source environment unchanged",
   "distributions": [
     {

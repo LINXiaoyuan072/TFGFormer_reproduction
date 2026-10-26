@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-25T13:15:23Z",
+  "updated_at_utc": "2026-10-25T14:26:27Z",
   "learning_rate": 0.01,
   "learning_rate_confirmed_by_user": true,
   "data_ready": "data/processed/hardanger_2014_10_fig4",
@@ -69,13 +69,45 @@
     "elapsed_seconds": 230.4727816209197,
     "limitation": "Subset pilot with unverified paper month/channel mapping; not a paper-table reproduction."
   },
-  "scenario_summary": "results/scenario_summary_torch23.json",
+  "scenario_summary": "results/hardanger_selected_methods_summary_v2.json",
   "additional_scenarios": {
     "S50_seed42": "failed_nonfinite_train_loss_at_epoch_5",
     "S50_seed0": "failed_nonfinite_val_loss_at_epoch_4",
     "S75_seed42": "completed_best_epoch_199"
   },
-  "visual_quality": "S25 and S75 fixed examples contain strong periodic spurious peaks; paper time-frequency fidelity is not reproduced.",
+  "visual_quality": "The channel-layout diagnostic strongly reduces S75 periodic spurious peaks over most of the fixed window, but the terminal transient remains difficult and paper time-frequency fidelity is not reproduced.",
+  "selected_diagnostic_results": {
+    "selection_policy": "best stable method tried per scenario; diagnostic only, not a like-for-like paper-table reproduction",
+    "S25": {
+      "run": "results/hardanger_S25_torch23_fixed_ensemble",
+      "global_MAE_g": 0.00042365491712523,
+      "global_RMSE_g": 0.0011679921847373767,
+      "missing_MAE_g": 0.00169461966850092,
+      "missing_RMSE_g": 0.0023359843694747535,
+      "note": "fixed 50/50 ensemble of released and channel-layout predictions; no test-set weight fitting"
+    },
+    "S50": {
+      "run": "results/hardanger_S50_fig4_200ep_torch23_channelgate_clip1",
+      "global_MAE_g": 0.0007313718075225545,
+      "global_RMSE_g": 0.0014166342387599625,
+      "missing_MAE_g": 0.001462743615,
+      "missing_RMSE_g": 0.002003423353,
+      "note": "channel-layout gate plus gradient clipping at 1.0"
+    },
+    "S75": {
+      "run": "results/hardanger_S75_torch23_fixed_ensemble",
+      "global_MAE_g": 0.0012679713151226147,
+      "global_RMSE_g": 0.0019817501106178443,
+      "missing_MAE_g": 0.0016906284201634863,
+      "missing_RMSE_g": 0.0022883279196635664,
+      "note": "fixed 50/50 ensemble of released and channel-layout-plus-clipping predictions; no test-set weight fitting"
+    }
+  },
+  "new_visuals": {
+    "S25_detailed": "results/S25_released_channel_ensemble_visual.png",
+    "S75_detailed": "results/S75_released_channelclip_ensemble_visual_v2.png",
+    "scenario_summary": "results/hardanger_selected_methods_summary_v2.png"
+  },
   "gate_layout_diagnostic": "results/gate_layout_diagnostic.json",
   "framework_and_loop_comparison": "results/framework_and_loop_comparison.json",
   "paper_targets": "results/paper_targets_hardanger.json",

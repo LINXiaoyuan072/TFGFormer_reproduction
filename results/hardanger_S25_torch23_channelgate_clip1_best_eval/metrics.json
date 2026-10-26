@@ -1,0 +1,42 @@
+{
+  "best_epoch": 67,
+  "best_val_loss": 2.7138580465005995e-06,
+  "test_windows": 13,
+  "metrics_aggregation": "all test elements pooled; g units; RE given both as ratio and percent",
+  "model_global": {
+    "MAE_g": 0.0004556535089722258,
+    "RMSE_g": 0.0012280112162458524,
+    "RE_ratio": 0.2919513753373338,
+    "RE_percent": 29.19513753373338,
+    "R2_flattened": 0.8728775802009588,
+    "SNR_dB": 10.69378949028793
+  },
+  "model_missing_only": {
+    "MAE_g": 0.0018226140358889031,
+    "RMSE_g": 0.0024560224324917048,
+    "RE_ratio": 0.49569607461537296,
+    "RE_percent": 49.569607461537295,
+    "R2_flattened": 0.5531250870632178,
+    "SNR_dB": 6.095690404613659
+  },
+  "zero_fill_global": {
+    "MAE_g": 0.000994476915998083,
+    "RMSE_g": 0.00247734706634243,
+    "RE_ratio": 0.5889725383923377,
+    "RE_percent": 58.89725383923376,
+    "R2_flattened": 0.48264197311653967,
+    "SNR_dB": 4.59809908567427
+  },
+  "zero_fill_missing_only": {
+    "MAE_g": 0.003977907663992332,
+    "RMSE_g": 0.00495469413268486,
+    "RE_ratio": 1.0,
+    "RE_percent": 100.0,
+    "R2_flattened": -0.8186746569658643,
+    "SNR_dB": 0.0
+  },
+  "observed_values_preserved": true,
+  "source_run_status": "failed_nonfinite_loss",
+  "source_checkpoint": "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch23_channelgate_clip1/best.pt",
+  "limitation": "Best-checkpoint evaluation recovered from a run that later became nonfinite."
+}

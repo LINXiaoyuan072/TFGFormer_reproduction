@@ -1,5 +1,5 @@
 {
-  "data": "${WORKSPACE}/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/S25",
+  "data": "/zeron-vepfs/tjqc/xiaoyuan.lin/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/S25",
   "output": "TFGFormer_reproduction/results/hardanger_S25_fig4_200ep_torch24",
   "epochs": 200,
   "batch_size": 16,
@@ -13,7 +13,7 @@
   "parameter_count": 1805741,
   "loss": "released JointTimeFreqLoss(spatial_weight=1, freq_weight=1), internal /2 and ortho rfft2",
   "learning_rate_source": "paper, user confirmed",
-  "dataset_manifest": "${WORKSPACE}/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/manifest.json",
+  "dataset_manifest": "/zeron-vepfs/tjqc/xiaoyuan.lin/TFGFormer_reproduction/data/processed/hardanger_2014_10_fig4/manifest.json",
   "adapter_changes": [
     "filename-matched pairs",
     "explicit observed-value preservation",
