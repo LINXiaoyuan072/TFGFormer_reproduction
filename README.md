@@ -6,6 +6,8 @@
 [REPRODUCTION_GUIDE_zh.md](REPRODUCTION_GUIDE_zh.md)。本次更新增加了 S25/S50/S75
 诊断训练、固定等权集成、波形/频谱/残差/误差热图和三场景论文基准对照。
 正式复跑保持正文学习率 `0.01`；诊断变体与发布配置在文档和结果中分别标注。
+适合直接分享给小组成员的版本见
+[GROUP_REPRODUCTION_SUMMARY_zh.md](GROUP_REPRODUCTION_SUMMARY_zh.md)。
 
 这是 Hardanger Bridge 的子集方法验证，不能据此宣称已复现论文表格。
 上游代码未随仓库再分发，且尚未确认其许可证。运行 `python scripts/restore_dependencies.py` 可从作者仓库获取固定 commit，
